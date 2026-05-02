@@ -131,6 +131,103 @@ def enrich_movie_with_poster(title: str) -> Dict[str, Any]:
     }
 
 
+@lru_cache(maxsize=500)
+def get_movie_details(tmdb_id: int) -> Optional[Dict[str, Any]]:
+    """
+    Fetch detailed movie information from TMDb including cast, genres, and runtime.
+    
+    Args:
+        tmdb_id: TMDb movie ID
+    
+    Returns:
+        Dict with detailed movie info or None if not found
+    """
+    if not TMDB_API_KEY:
+        return None
+    
+    try:
+        params = {
+            "api_key": TMDB_API_KEY,
+            "append_to_response": "credits"  # Include cast/crew info
+        }
+        
+        response = requests.get(
+            f"{TMDB_API_BASE}/movie/{tmdb_id}",
+            params=params,
+            timeout=5
+        )
+        response.raise_for_status()
+        
+        data = response.json()
+        
+        # Extract main cast (top 10)
+        cast = []
+        if data.get("credits", {}).get("cast"):
+            cast = [
+                {
+                    "name": actor.get("name"),
+                    "character": actor.get("character"),
+                    "profile_path": actor.get("profile_path")
+                }
+                for actor in data.get("credits", {}).get("cast", [])[:10]
+            ]
+        
+        # Extract genres
+        genres = [g.get("name") for g in data.get("genres", [])]
+        
+        return {
+            "id": data.get("id"),
+            "title": data.get("title"),
+            "overview": data.get("overview"),
+            "poster_path": data.get("poster_path"),
+            "backdrop_path": data.get("backdrop_path"),
+            "release_date": data.get("release_date"),
+            "vote_average": data.get("vote_average"),
+            "runtime": data.get("runtime"),
+            "genres": genres,
+            "cast": cast,
+        }
+    except Exception as e:
+        print(f"Error fetching TMDb details for ID {tmdb_id}: {str(e)}")
+        return None
+
+
+def get_full_movie_details(title: str) -> Optional[Dict[str, Any]]:
+    """
+    Get comprehensive movie details by title.
+    Searches for the movie, then fetches detailed info.
+    
+    Args:
+        title: Movie title (optionally with year)
+    
+    Returns:
+        Dict with comprehensive movie details or None if not found
+    """
+    # Extract year if present
+    year = None
+    clean_title = title
+    
+    if title and "(" in title and ")" in title:
+        try:
+            year_str = title[title.rfind("(") + 1 : title.rfind(")")]
+            if year_str.isdigit():
+                year = int(year_str)
+                clean_title = title[: title.rfind("(")].strip()
+        except ValueError:
+            pass
+    
+    # Search for movie
+    movie_data = search_movie(clean_title, year)
+    if not movie_data or not movie_data.get("id"):
+        return None
+    
+    # Fetch detailed info
+    details = get_movie_details(movie_data["id"])
+    
+    return details or movie_data
+
+
 def clear_cache():
     """Clear the LRU cache for testing or updates."""
     search_movie.cache_clear()
+    get_movie_details.cache_clear()

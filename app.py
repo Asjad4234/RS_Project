@@ -6,6 +6,7 @@ from Movie_Recommender_User_Input import (
     get_recommendations, find_best_match, popular_movies,
     get_hybrid_recommendations, user_similarity_df
 )
+from tmdb_client import get_full_movie_details
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
@@ -67,6 +68,40 @@ def get_users():
             'count': len(user_ids),
             'range': f'{user_ids[0]}–{user_ids[-1]}'
         })
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+# ── GET /movie-details/<title> ────────────────────────────────────
+@app.route('/movie-details/<title>', methods=['GET'])
+def get_movie_details(title):
+    try:
+        # First, try to get data from cache
+        cached_data = POSTER_CACHE.get(title, {})
+        
+        # Try to fetch full details from TMDb
+        details = get_full_movie_details(title)
+        
+        # If TMDb search failed but we have cached poster, use cache as base
+        if not details and cached_data:
+            details = {
+                'title': title,
+                'poster_url': cached_data.get('poster_url'),
+                'overview': 'Details not available',
+            }
+        
+        # If still no data, return error
+        if not details:
+            return jsonify({'error': f"Movie '{title}' not found"}), 404
+        
+        # Ensure poster URL from cache is used
+        if not details.get('poster_url') and cached_data.get('poster_url'):
+            details['poster_url'] = cached_data.get('poster_url')
+        
+        # Format backdrop URL if available
+        if details.get('backdrop_path'):
+            details['backdrop_url'] = f"https://image.tmdb.org/t/p/w1280{details['backdrop_path']}"
+        
+        return jsonify(details)
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
