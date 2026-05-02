@@ -1,5 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+import json
+import os
 from Movie_Recommender_User_Input import (
     get_recommendations, find_best_match, popular_movies,
     get_hybrid_recommendations, user_similarity_df
@@ -8,12 +10,50 @@ from Movie_Recommender_User_Input import (
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
+# Load poster cache at startup
+POSTER_CACHE = {}
+
+def load_poster_cache():
+    """Load the precomputed poster cache from JSON file."""
+    global POSTER_CACHE
+    cache_file = os.path.join(os.path.dirname(__file__), 'movie_posters_cache.json')
+    try:
+        with open(cache_file, 'r') as f:
+            POSTER_CACHE = json.load(f)
+        print(f"✅ Loaded poster cache for {len(POSTER_CACHE)} movies")
+    except FileNotFoundError:
+        print(f"⚠️  Cache file not found: {cache_file}")
+        print("   Posters will not be displayed. Run build_poster_cache_fast.py first.")
+    except Exception as e:
+        print(f"❌ Error loading cache: {e}")
+
+# Load cache when app starts
+load_poster_cache()
+
+# Helper function to enrich recommendations with poster URLs (from cache)
+def enrich_recommendations_with_posters(recommendations):
+    """Add poster_url to each recommendation from cache."""
+    for rec in recommendations:
+        if 'title' in rec:
+            # Look up poster from cache
+            poster_data = POSTER_CACHE.get(rec['title'], {})
+            rec['poster_url'] = poster_data.get('poster_url')
+    return recommendations
+
 # ── GET /movies ───────────────────────────────────────────────────
 @app.route('/movies', methods=['GET'])
 def get_movies():
     try:
         movie_list = sorted(popular_movies.tolist())
-        return jsonify(movie_list)
+        # Return movies with poster URLs from cache
+        enriched_movies = []
+        for title in movie_list:
+            poster_data = POSTER_CACHE.get(title, {})
+            enriched_movies.append({
+                'title': title,
+                'poster_url': poster_data.get('poster_url')
+            })
+        return jsonify(enriched_movies)
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
@@ -48,6 +88,9 @@ def recommend():
 
         result_df = get_recommendations(matched_title, top_n=top_n)
         recommendations = result_df.to_dict(orient='records')
+        
+        # Enrich with poster URLs
+        recommendations = enrich_recommendations_with_posters(recommendations)
 
         return jsonify({
             'movie': matched_title,
@@ -94,6 +137,11 @@ def recommend_hybrid():
             item_weight=item_weight,
             user_weight=user_weight
         )
+        
+        recommendations = result_df.to_dict(orient='records')
+        
+        # Enrich with poster URLs
+        recommendations = enrich_recommendations_with_posters(recommendations)
 
         return jsonify({
             'movie': matched_title,
@@ -101,7 +149,7 @@ def recommend_hybrid():
             'mode': 'hybrid',
             'item_weight': item_weight,
             'user_weight': user_weight,
-            'recommendations': result_df.to_dict(orient='records')
+            'recommendations': recommendations
         })
 
     except Exception as e:
