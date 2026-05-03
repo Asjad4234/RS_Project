@@ -13,6 +13,7 @@ CORS(app)  # Enable CORS for all routes
 
 # Load poster cache at startup
 POSTER_CACHE = {}
+DETAILS_CACHE = {}
 
 def load_poster_cache():
     """Load the precomputed poster cache from JSON file."""
@@ -24,12 +25,25 @@ def load_poster_cache():
         print(f"✅ Loaded poster cache for {len(POSTER_CACHE)} movies")
     except FileNotFoundError:
         print(f"⚠️  Cache file not found: {cache_file}")
-        print("   Posters will not be displayed. Run build_poster_cache_fast.py first.")
     except Exception as e:
         print(f"❌ Error loading cache: {e}")
 
-# Load cache when app starts
+def load_details_cache():
+    """Load the comprehensive movie details cache from JSON file."""
+    global DETAILS_CACHE
+    cache_file = os.path.join(os.path.dirname(__file__), 'movie_details_cache.json')
+    try:
+        with open(cache_file, 'r') as f:
+            DETAILS_CACHE = json.load(f)
+        print(f"✅ Loaded details cache for {len(DETAILS_CACHE)} movies")
+    except FileNotFoundError:
+        print(f"⚠️  Details cache file not found: {cache_file}")
+    except Exception as e:
+        print(f"❌ Error loading details cache: {e}")
+
+# Load caches when app starts
 load_poster_cache()
+load_details_cache()
 
 # Helper function to enrich recommendations with poster URLs (from cache)
 def enrich_recommendations_with_posters(recommendations):
@@ -75,31 +89,29 @@ def get_users():
 @app.route('/movie-details/<title>', methods=['GET'])
 def get_movie_details(title):
     try:
-        # First, try to get data from cache
-        cached_data = POSTER_CACHE.get(title, {})
+        # First, try to get comprehensive details from cache
+        if title in DETAILS_CACHE:
+            cached_details = DETAILS_CACHE[title]
+            # Filter out empty values
+            if cached_details.get("overview") or cached_details.get("poster_url"):
+                return jsonify(cached_details)
         
-        # Try to fetch full details from TMDb
+        # Try to fetch full details from TMDb (for movies not in cache)
         details = get_full_movie_details(title)
         
-        # If TMDb search failed but we have cached poster, use cache as base
-        if not details and cached_data:
-            details = {
-                'title': title,
-                'poster_url': cached_data.get('poster_url'),
-                'overview': 'Details not available',
-            }
+        # If TMDb search failed but we have poster cached, use minimal data
+        if not details:
+            poster_data = POSTER_CACHE.get(title, {})
+            if poster_data.get('poster_url'):
+                details = {
+                    'title': title,
+                    'poster_url': poster_data.get('poster_url'),
+                    'overview': '',
+                }
         
         # If still no data, return error
         if not details:
             return jsonify({'error': f"Movie '{title}' not found"}), 404
-        
-        # Ensure poster URL from cache is used
-        if not details.get('poster_url') and cached_data.get('poster_url'):
-            details['poster_url'] = cached_data.get('poster_url')
-        
-        # Format backdrop URL if available
-        if details.get('backdrop_path'):
-            details['backdrop_url'] = f"https://image.tmdb.org/t/p/w1280{details['backdrop_path']}"
         
         return jsonify(details)
     except Exception as e:
@@ -187,6 +199,66 @@ def recommend_hybrid():
             'recommendations': recommendations
         })
 
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+# ── POST /recommend-from-mylist ──────────────────────────────────
+@app.route('/recommend-from-mylist', methods=['POST'])
+def recommend_from_mylist():
+    """
+    Generate recommendations based on user's "My List" (watchlist).
+    Useful for personalized recommendations built from saved movies.
+    
+    Request body:
+    {
+        "mylist": ["Movie 1 (YYYY)", "Movie 2 (YYYY)", ...],
+        "count": 10
+    }
+    """
+    try:
+        data = request.get_json()
+        mylist = data.get('mylist', [])
+        count = min(data.get('count', 10), 20)  # Max 20 recommendations
+        
+        if not mylist:
+            return jsonify({'error': 'mylist cannot be empty'}), 400
+        
+        all_recommendations = {}
+        
+        # Get recommendations for each movie in the list
+        for movie_title in mylist:
+            try:
+                # Find exact match in dataset
+                exact_match = find_best_match(movie_title, popular_movies.tolist())
+                
+                if exact_match:
+                    recs = get_recommendations(exact_match, count=5)
+                    for rec in recs:
+                        if rec not in mylist:  # Don't recommend movies already in mylist
+                            all_recommendations[rec] = all_recommendations.get(rec, 0) + 1
+            except Exception as e:
+                print(f"Error getting recommendations for {movie_title}: {e}")
+                continue
+        
+        # Sort by frequency (movies that appear in multiple recommendations)
+        sorted_recs = sorted(all_recommendations.items(), key=lambda x: x[1], reverse=True)
+        final_recs = [movie for movie, score in sorted_recs[:count]]
+        
+        # Enrich with posters
+        enriched_recs = []
+        for movie in final_recs:
+            poster_data = POSTER_CACHE.get(movie, {})
+            enriched_recs.append({
+                'title': movie,
+                'poster_url': poster_data.get('poster_url'),
+                'similarity_score': all_recommendations.get(movie, 0) / len(mylist)
+            })
+        
+        return jsonify({
+            'mylist': mylist,
+            'recommendations': enriched_recs
+        })
+    
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
