@@ -1,0 +1,3013 @@
+{
+  "2 Days in the Valley (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dKmOINYPpg2W8SMRicnFdusqk1x.jpg",
+    "tmdb_id": 9401,
+    "release_date": "1996-09-11"
+  },
+  "12 Angry Men (1957)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+    "tmdb_id": 389,
+    "release_date": "1957-04-10"
+  },
+  "2001: A Space Odyssey (1968)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+    "tmdb_id": 62,
+    "release_date": "1968-04-02"
+  },
+  "101 Dalmatians (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg",
+    "tmdb_id": 11674,
+    "release_date": "1996-11-27"
+  },
+  "20,000 Leagues Under the Sea (1954)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/heAEH85fdxEgV98LizHbQCL95iZ.jpg",
+    "tmdb_id": 173,
+    "release_date": "1954-12-23"
+  },
+  "39 Steps, The (1935)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/oC81jK6aAug4MA0xzYVngHmjsZS.jpg",
+    "tmdb_id": 260,
+    "release_date": "1935-06-06"
+  },
+  "Absolute Power (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/izvyt3cxlilhbYwybTOteDWqf99.jpg",
+    "tmdb_id": 66,
+    "release_date": "1997-02-14"
+  },
+  "Abyss, The (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+    "tmdb_id": 2756,
+    "release_date": "1989-08-09"
+  },
+  "Addams Family Values (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg",
+    "tmdb_id": 2758,
+    "release_date": "1993-11-19"
+  },
+  "Ace Ventura: Pet Detective (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg",
+    "tmdb_id": 3049,
+    "release_date": "1994-02-04"
+  },
+  "Addicted to Love (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/sRfuSc6E9GvVaOHdPv4vG3ywfMw.jpg",
+    "tmdb_id": 2058,
+    "release_date": "1997-05-23"
+  },
+  "Adventures of Priscilla, Queen of the Desert, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kJ7syYXEJgSBmBfSnF3Can9cK1J.jpg",
+    "tmdb_id": 2759,
+    "release_date": "1994-08-10"
+  },
+  "Adventures of Robin Hood, The (1938)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4mazyXEMkmLw5h6076yyNSm9uv0.jpg",
+    "tmdb_id": 10907,
+    "release_date": "1938-05-13"
+  },
+  "Age of Innocence, The (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+    "tmdb_id": 10436,
+    "release_date": "1993-09-10"
+  },
+  "African Queen, The (1951)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2Ypg0KhQfFYWILelvHGtSHHR0dk.jpg",
+    "tmdb_id": 488,
+    "release_date": "1951-12-26"
+  },
+  "Air Force One (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/evO1iENjLpUnbwjnt5XK85jRYob.jpg",
+    "tmdb_id": 9772,
+    "release_date": "1997-07-25"
+  },
+  "Akira (1988)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+    "tmdb_id": 149,
+    "release_date": "1988-06-10"
+  },
+  "Aladdin (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+    "tmdb_id": 812,
+    "release_date": "1992-11-25"
+  },
+  "Alice in Wonderland (1951)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
+    "tmdb_id": 12092,
+    "release_date": "1951-07-28"
+  },
+  "Alien (1979)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "tmdb_id": 348,
+    "release_date": "1979-05-25"
+  },
+  "Alien 3 (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+    "tmdb_id": 8077,
+    "release_date": "1992-05-22"
+  },
+  "Alien: Resurrection (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
+    "tmdb_id": 8078,
+    "release_date": "1997-11-12"
+  },
+  "All About Eve (1950)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg",
+    "tmdb_id": 705,
+    "release_date": "1950-11-09"
+  },
+  "Aliens (1986)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+    "tmdb_id": 679,
+    "release_date": "1986-07-18"
+  },
+  "Amadeus (1984)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gQRfiyfGvr1az0quaYyMram3Aqt.jpg",
+    "tmdb_id": 279,
+    "release_date": "1984-09-19"
+  },
+  "American President, The (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/yObOAYFIHXHkFPQ3jhgkN2ezaD.jpg",
+    "tmdb_id": 9087,
+    "release_date": "1995-11-17"
+  },
+  "American Werewolf in London, An (1981)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+    "tmdb_id": 814,
+    "release_date": "1981-08-21"
+  },
+  "American in Paris, An (1951)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+    "tmdb_id": 2769,
+    "release_date": "1951-09-26"
+  },
+  "Amistad (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/6QqNyIHKow0jngiQgTNBOBrLILM.jpg",
+    "tmdb_id": 11831,
+    "release_date": "1997-12-10"
+  },
+  "Amityville Horror, The (1979)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/7VMscq0659xKmcXzd86de1DGV4W.jpg",
+    "tmdb_id": 11449,
+    "release_date": "1979-07-27"
+  },
+  "Anastasia (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg",
+    "tmdb_id": 9444,
+    "release_date": "1997-11-20"
+  },
+  "Angels and Insects (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/w1i5JdddoLuzSmnKo5ORDoKdMm2.jpg",
+    "tmdb_id": 8447,
+    "release_date": "1995-09-10"
+  },
+  "Antonia's Line (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/nUCVi6bBIL7LGC61nYaCqikAhIA.jpg",
+    "tmdb_id": 880,
+    "release_date": "1995-09-21"
+  },
+  "Annie Hall (1977)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+    "tmdb_id": 703,
+    "release_date": "1977-04-19"
+  },
+  "Apartment, The (1960)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+    "tmdb_id": 284,
+    "release_date": "1960-06-21"
+  },
+  "Apocalypse Now (1979)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+    "tmdb_id": 28,
+    "release_date": "1979-05-19"
+  },
+  "Apollo 13 (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+    "tmdb_id": 568,
+    "release_date": "1995-06-30"
+  },
+  "Apostle, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/9KqCzLhWbFMBPjqRpZ69izRiYgG.jpg",
+    "tmdb_id": 2895,
+    "release_date": "1997-12-19"
+  },
+  "Apt Pupil (1998)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/pU3fvfSvrs5pZFdODPCzoLk95Ws.jpg",
+    "tmdb_id": 9445,
+    "release_date": "1998-10-23"
+  },
+  "Aristocats, The (1970)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg",
+    "tmdb_id": 10112,
+    "release_date": "1970-12-24"
+  },
+  "Army of Darkness (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg",
+    "tmdb_id": 766,
+    "release_date": "1992-10-31"
+  },
+  "Around the World in 80 Days (1956)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kk6Rrwh0toMz9tjuUHdS4O3v2Rk.jpg",
+    "tmdb_id": 2897,
+    "release_date": "1956-10-17"
+  },
+  "Arrival, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/jgPMhzBAZSTMe5sRkNThiuR7dO0.jpg",
+    "tmdb_id": 10547,
+    "release_date": "1996-05-31"
+  },
+  "Arsenic and Old Lace (1944)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg",
+    "tmdb_id": 212,
+    "release_date": "1944-09-01"
+  },
+  "As Good As It Gets (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg",
+    "tmdb_id": 2898,
+    "release_date": "1997-12-19"
+  },
+  "Austin Powers: International Man of Mystery (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg",
+    "tmdb_id": 816,
+    "release_date": "1997-05-02"
+  },
+  "Babe (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg",
+    "tmdb_id": 9598,
+    "release_date": "1995-07-18"
+  },
+  "Back to the Future (1985)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "tmdb_id": 105,
+    "release_date": "1985-07-03"
+  },
+  "Bad Boys (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+    "tmdb_id": 9737,
+    "release_date": "1995-04-07"
+  },
+  "Barcelona (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/7dgX3naR9EsFMvQhwHY8My6r5FR.jpg",
+    "tmdb_id": 16771,
+    "release_date": "1994-07-29"
+  },
+  "Bananas (1971)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gK11RUXspxqty0Wq6KoV8J0crKO.jpg",
+    "tmdb_id": 11302,
+    "release_date": "1971-04-28"
+  },
+  "Basic Instinct (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+    "tmdb_id": 402,
+    "release_date": "1992-03-20"
+  },
+  "Batman & Robin (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg",
+    "tmdb_id": 415,
+    "release_date": "1997-06-20"
+  },
+  "Batman (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+    "tmdb_id": 268,
+    "release_date": "1989-06-21"
+  },
+  "Batman Returns (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+    "tmdb_id": 364,
+    "release_date": "1992-06-19"
+  },
+  "Batman Forever (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg",
+    "tmdb_id": 414,
+    "release_date": "1995-06-16"
+  },
+  "Bean (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/IwrDPrB4d2DMcpnGkvan46yINL.jpg",
+    "tmdb_id": 1281,
+    "release_date": "1997-07-03"
+  },
+  "Beautician and the Beast, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/s2RaTrqoPvD4eYEaZCyF0zFbbpV.jpg",
+    "tmdb_id": 17894,
+    "release_date": "1997-02-07"
+  },
+  "Beautiful Girls (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/sHcx1fBmrtZYvFmUywU0d5cvIFd.jpg",
+    "tmdb_id": 9283,
+    "release_date": "1996-02-09"
+  },
+  "Beauty and the Beast (1991)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+    "tmdb_id": 10020,
+    "release_date": "1991-10-22"
+  },
+  "Beavis and Butt-head Do America (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/vqdgQiRCSzgpFXLlbxbybfkleBM.jpg",
+    "tmdb_id": 3179,
+    "release_date": "1996-12-20"
+  },
+  "Bed of Roses (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zCXvHCEm8334d0d646ldDkXnKws.jpg",
+    "tmdb_id": 20927,
+    "release_date": "1996-01-26"
+  },
+  "Bedknobs and Broomsticks (1971)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1BBzsThIZ06UmjZ3rChYGZhJtFQ.jpg",
+    "tmdb_id": 12335,
+    "release_date": "1971-10-07"
+  },
+  "Being There (1979)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+    "tmdb_id": 10322,
+    "release_date": "1979-12-19"
+  },
+  "Ben-Hur (1959)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+    "tmdb_id": 665,
+    "release_date": "1959-11-18"
+  },
+  "Benny & Joon (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/7g7qYdUN9wDXJGIOj6U67RPIBHO.jpg",
+    "tmdb_id": 4104,
+    "release_date": "1993-04-16"
+  },
+  "Better Off Dead... (1985)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/pHmbSkpxdB7jXozrovEfacArtW0.jpg",
+    "tmdb_id": 13667,
+    "release_date": "1985-08-23"
+  },
+  "Big Night (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8AJGSDyrj3Dz2B57n1ZB4qNPbmJ.jpg",
+    "tmdb_id": 18203,
+    "release_date": "1996-09-20"
+  },
+  "Big Sleep, The (1946)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+    "tmdb_id": 910,
+    "release_date": "1946-08-22"
+  },
+  "Birdcage, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4IpC35BoA5aRO0Q1DpFGJ8iKKYq.jpg",
+    "tmdb_id": 11000,
+    "release_date": "1996-03-03"
+  },
+  "Birds, The (1963)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/eClg8QPg8mwB6INIC4pyR5pAbDr.jpg",
+    "tmdb_id": 571,
+    "release_date": "1963-03-28"
+  },
+  "Black Sheep (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bqIW5oE4WeHAvk1nh2Y6rfOLGrF.jpg",
+    "tmdb_id": 13997,
+    "release_date": "1996-02-02"
+  },
+  "Blade Runner (1982)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+    "tmdb_id": 78,
+    "release_date": "1982-06-25"
+  },
+  "Blues Brothers, The (1980)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+    "tmdb_id": 525,
+    "release_date": "1980-06-16"
+  },
+  "Bob Roberts (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/j4PokuSIrmbN5oCR54D8kiI0U6a.jpg",
+    "tmdb_id": 10608,
+    "release_date": "1992-09-04"
+  },
+  "Body Snatchers (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/52uEKbVSpCyilZl0zRApq3zvVs3.jpg",
+    "tmdb_id": 4722,
+    "release_date": "1993-06-09"
+  },
+  "Bonnie and Clyde (1967)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/psITX0BMm6BTKMZZjpcXO93yjbb.jpg",
+    "tmdb_id": 475,
+    "release_date": "1967-08-13"
+  },
+  "Boogie Nights (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+    "tmdb_id": 4995,
+    "release_date": "1997-10-07"
+  },
+  "Boot, Das (1981)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+    "tmdb_id": 387,
+    "release_date": "1981-09-17"
+  },
+  "Bound (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg",
+    "tmdb_id": 9303,
+    "release_date": "1996-09-13"
+  },
+  "Brady Bunch Movie, The (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kbJfBJh5vEf5356Jlm6P37H48hD.jpg",
+    "tmdb_id": 9066,
+    "release_date": "1995-02-16"
+  },
+  "Bram Stoker's Dracula (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/jSxCIZXudp5q8wQO8VERGX8hRAl.jpg",
+    "tmdb_id": 6114,
+    "release_date": "1992-11-13"
+  },
+  "Brazil (1985)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+    "tmdb_id": 68,
+    "release_date": "1985-02-20"
+  },
+  "Breakdown (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/m3VB59ppr1RlpxNUYRUfZTgjgU.jpg",
+    "tmdb_id": 2163,
+    "release_date": "1997-05-02"
+  },
+  "Braveheart (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
+    "tmdb_id": 197,
+    "release_date": "1995-05-24"
+  },
+  "Breakfast at Tiffany's (1961)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+    "tmdb_id": 164,
+    "release_date": "1961-10-06"
+  },
+  "Breaking the Waves (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+    "tmdb_id": 145,
+    "release_date": "1996-07-05"
+  },
+  "Bridge on the River Kwai, The (1957)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+    "tmdb_id": 826,
+    "release_date": "1957-10-11"
+  },
+  "Bridges of Madison County, The (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/aCBrhOQjhG397GLkEZ49zReQEKX.jpg",
+    "tmdb_id": 688,
+    "release_date": "1995-06-02"
+  },
+  "Bringing Up Baby (1938)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/vTNNOtemaYmtx3k2NpsLMRJKEwZ.jpg",
+    "tmdb_id": 900,
+    "release_date": "1938-02-18"
+  },
+  "Broken Arrow (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg",
+    "tmdb_id": 9208,
+    "release_date": "1996-02-09"
+  },
+  "Brothers McMullen, The (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/6oWsOJP0ed5gs8n2UywcailoxFN.jpg",
+    "tmdb_id": 16388,
+    "release_date": "1995-08-11"
+  },
+  "Bullets Over Broadway (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
+    "tmdb_id": 11382,
+    "release_date": "1994-10-14"
+  },
+  "Butch Cassidy and the Sundance Kid (1969)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+    "tmdb_id": 642,
+    "release_date": "1969-09-23"
+  },
+  "Cable Guy, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/YJt9l3RdrRohI95btQKPXwpdii.jpg",
+    "tmdb_id": 9894,
+    "release_date": "1996-06-10"
+  },
+  "Candyman (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/jQtgkgDZE7egMq532sOt83DnT83.jpg",
+    "tmdb_id": 9529,
+    "release_date": "1992-10-16"
+  },
+  "Cape Fear (1962)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xDqaHjMbnebtB05QWgAR8wW86sb.jpg",
+    "tmdb_id": 11349,
+    "release_date": "1962-04-12"
+  },
+  "Cape Fear (1991)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg",
+    "tmdb_id": 1598,
+    "release_date": "1991-11-13"
+  },
+  "Carlito's Way (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+    "tmdb_id": 6075,
+    "release_date": "1993-11-10"
+  },
+  "Carrie (1976)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg",
+    "tmdb_id": 7340,
+    "release_date": "1976-11-03"
+  },
+  "Casablanca (1942)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+    "tmdb_id": 289,
+    "release_date": "1943-01-15"
+  },
+  "Casino (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+    "tmdb_id": 524,
+    "release_date": "1995-11-22"
+  },
+  "Casper (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
+    "tmdb_id": 8839,
+    "release_date": "1995-05-26"
+  },
+  "Cat on a Hot Tin Roof (1958)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5djZZECgqDGuSI1INmrdAcGRBb0.jpg",
+    "tmdb_id": 261,
+    "release_date": "1958-08-29"
+  },
+  "Celluloid Closet, The (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/x0DSh3uMeQk6EG1DHjGJUywN7C0.jpg",
+    "tmdb_id": 32562,
+    "release_date": "1996-03-15"
+  },
+  "Chain Reaction (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4ahjVHwXXsq5zK57ds8FwWY73MS.jpg",
+    "tmdb_id": 12123,
+    "release_date": "1996-08-02"
+  },
+  "Chasing Amy (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/tqydORBcNlQxy3ijgSpPurgDHM2.jpg",
+    "tmdb_id": 2255,
+    "release_date": "1997-04-04"
+  },
+  "Chinatown (1974)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+    "tmdb_id": 829,
+    "release_date": "1974-06-20"
+  },
+  "Cinderella (1950)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ug3ndicuPM1V07vhVFGLMsd4AZl.jpg",
+    "tmdb_id": 11224,
+    "release_date": "1950-02-22"
+  },
+  "Christmas Carol, A (1938)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/cvr7x3CjBMsHv2GptR0tcFddMSa.jpg",
+    "tmdb_id": 25842,
+    "release_date": "1938-12-16"
+  },
+  "Cinema Paradiso (1988)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg",
+    "tmdb_id": 11216,
+    "release_date": "1988-11-17"
+  },
+  "Circle of Friends (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bnSBsGCIfGGiN68MSBIoviaoh9a.jpg",
+    "tmdb_id": 22625,
+    "release_date": "1995-04-07"
+  },
+  "Citizen Kane (1941)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+    "tmdb_id": 15,
+    "release_date": "1941-04-17"
+  },
+  "City Hall (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/w7EkAl4Oi8Lc6VQKaqRHrOV3CxR.jpg",
+    "tmdb_id": 11062,
+    "release_date": "1996-02-16"
+  },
+  "City of Lost Children, The (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/whwT3Q9JxbAYzEc3t7uYYcCbTMf.jpg",
+    "tmdb_id": 902,
+    "release_date": "1995-05-17"
+  },
+  "Clear and Present Danger (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg",
+    "tmdb_id": 9331,
+    "release_date": "1994-08-03"
+  },
+  "Cliffhanger (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/b28DOM54OHb1c7Lsk6Nu7Kwuonj.jpg",
+    "tmdb_id": 9350,
+    "release_date": "1993-05-28"
+  },
+  "Clerks (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+    "tmdb_id": 2292,
+    "release_date": "1994-10-19"
+  },
+  "Client, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/oLdkJ4ZjxPtFSUChdjDQvHM9l75.jpg",
+    "tmdb_id": 10731,
+    "release_date": "1994-07-20"
+  },
+  "Clockwork Orange, A (1971)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+    "tmdb_id": 185,
+    "release_date": "1971-10-28"
+  },
+  "Close Shave, A (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/qdIR27trLyrlJ5nmkbcG3Bomah6.jpg",
+    "tmdb_id": 532,
+    "release_date": "1996-03-07"
+  },
+  "Clueless (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+    "tmdb_id": 9603,
+    "release_date": "1995-07-19"
+  },
+  "Cold Comfort Farm (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/fkPm7MQhn3YqcRDM9qFDKNHiw7D.jpg",
+    "tmdb_id": 32513,
+    "release_date": "1995-01-01"
+  },
+  "Con Air (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kOKjgrEzGOP92rVQ6srA9jtp60l.jpg",
+    "tmdb_id": 1701,
+    "release_date": "1997-06-05"
+  },
+  "Conspiracy Theory (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/sTyTKZVikQU6g50HE8HR1tBSRxj.jpg",
+    "tmdb_id": 8834,
+    "release_date": "1997-08-08"
+  },
+  "Conan the Barbarian (1981)": {
+    "poster_url": null
+  },
+  "Contact (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
+    "tmdb_id": 686,
+    "release_date": "1997-07-11"
+  },
+  "Cook the Thief His Wife & Her Lover, The (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/fNkl7o1VQQqy1nEX9x56CDHULmr.jpg",
+    "tmdb_id": 7452,
+    "release_date": "1989-10-13"
+  },
+  "Cool Hand Luke (1967)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+    "tmdb_id": 903,
+    "release_date": "1967-11-01"
+  },
+  "Cool Runnings (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/6fXuGEb7EqGmAeUodxm7l5ELPZ.jpg",
+    "tmdb_id": 864,
+    "release_date": "1993-10-01"
+  },
+  "Cop Land (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dyOqXyPCQh8VF0KA5aelBCCQond.jpg",
+    "tmdb_id": 2142,
+    "release_date": "1997-08-15"
+  },
+  "Copycat (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/oMgwJb016znNZcpDR20eXxZoW8A.jpg",
+    "tmdb_id": 1710,
+    "release_date": "1995-10-27"
+  },
+  "Courage Under Fire (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/vDJurMJkrx049AiXa3DJx5Zx7a4.jpg",
+    "tmdb_id": 10684,
+    "release_date": "1996-07-04"
+  },
+  "Craft, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8bW2RdRkloYtEPhbQZN4wcdmJP4.jpg",
+    "tmdb_id": 9100,
+    "release_date": "1996-05-03"
+  },
+  "Crash (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
+    "tmdb_id": 884,
+    "release_date": "1996-07-17"
+  },
+  "Crimson Tide (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+    "tmdb_id": 8963,
+    "release_date": "1995-05-12"
+  },
+  "Crow, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
+    "tmdb_id": 9495,
+    "release_date": "1994-05-11"
+  },
+  "Crucible, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zv69Rev43me5gQ68x7fk1mQzhHn.jpg",
+    "tmdb_id": 20539,
+    "release_date": "1996-11-27"
+  },
+  "Crumb (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/9ocTHdBCJdwJ65Tubg3lYlfMxEY.jpg",
+    "tmdb_id": 26564,
+    "release_date": "1995-04-28"
+  },
+  "Crying Game, The (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ynEfiiwS0dosbPjzGqBLo7FXMlD.jpg",
+    "tmdb_id": 11386,
+    "release_date": "1992-09-02"
+  },
+  "Cyrano de Bergerac (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/80XJ5UkGuYTKDuALeG03BLk1OT1.jpg",
+    "tmdb_id": 11673,
+    "release_date": "1990-03-28"
+  },
+  "Dances with Wolves (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+    "tmdb_id": 581,
+    "release_date": "1990-03-30"
+  },
+  "Dante's Peak (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8PRVIfZzDgw8EV3sDWJ6NA1ZMAn.jpg",
+    "tmdb_id": 9619,
+    "release_date": "1997-02-07"
+  },
+  "Day the Earth Stood Still, The (1951)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/eslDNzf0LF1m9GsgUXlmyfTcC6Y.jpg",
+    "tmdb_id": 828,
+    "release_date": "1951-09-18"
+  },
+  "Dave (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/wIUuf1NFchdCJe833JBTiSMzqfv.jpg",
+    "tmdb_id": 11566,
+    "release_date": "1993-05-07"
+  },
+  "Daylight (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bRWNxtm3q0QvIIM52uQqRIEvpl2.jpg",
+    "tmdb_id": 11228,
+    "release_date": "1996-12-06"
+  },
+  "Days of Thunder (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8UvcoeMJag8UWGF8sg7eYspzq0Q.jpg",
+    "tmdb_id": 2119,
+    "release_date": "1990-06-27"
+  },
+  "Dead Man Walking (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/eShxyjhWoFl3BwsuEmVsr4nLaMZ.jpg",
+    "tmdb_id": 687,
+    "release_date": "1995-12-29"
+  },
+  "Dead Poets Society (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+    "tmdb_id": 207,
+    "release_date": "1989-06-02"
+  },
+  "Dazed and Confused (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+    "tmdb_id": 9571,
+    "release_date": "1993-09-24"
+  },
+  "Deconstructing Harry (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/i7Z5DdznqANJUjqWISEFu9bw6J7.jpg",
+    "tmdb_id": 2639,
+    "release_date": "1997-12-12"
+  },
+  "Deer Hunter, The (1978)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+    "tmdb_id": 11778,
+    "release_date": "1978-12-08"
+  },
+  "Delicatessen (1991)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gNtOgQHxE5B8e08zuNRAdDpmK5Z.jpg",
+    "tmdb_id": 892,
+    "release_date": "1991-04-17"
+  },
+  "Demolition Man (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg",
+    "tmdb_id": 9739,
+    "release_date": "1993-10-08"
+  },
+  "Desperado (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg",
+    "tmdb_id": 8068,
+    "release_date": "1995-08-25"
+  },
+  "Desperate Measures (1998)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/74ibzyjLp2dizmiua5nHn4llG0l.jpg",
+    "tmdb_id": 9458,
+    "release_date": "1998-01-30"
+  },
+  "Devil in a Blue Dress (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5lcJhwKGavLbPva17QkTBhLfqEk.jpg",
+    "tmdb_id": 8512,
+    "release_date": "1995-09-29"
+  },
+  "Devil's Advocate, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+    "tmdb_id": 1813,
+    "release_date": "1997-10-17"
+  },
+  "Devil's Own, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3KIPu7H3tST0j4tpqdKpQZUBCQz.jpg",
+    "tmdb_id": 4477,
+    "release_date": "1997-03-13"
+  },
+  "Dial M for Murder (1954)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+    "tmdb_id": 521,
+    "release_date": "1954-05-29"
+  },
+  "Diabolique (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zSW4A35r7Vpz0ainYJGb2QVwCh0.jpg",
+    "tmdb_id": 10988,
+    "release_date": "1996-03-22"
+  },
+  "Die Hard 2 (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ybki0UWO3OPhaM6MSniuKC7sy1R.jpg",
+    "tmdb_id": 1573,
+    "release_date": "1990-07-03"
+  },
+  "Die Hard (1988)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+    "tmdb_id": 562,
+    "release_date": "1988-07-15"
+  },
+  "Die Hard: With a Vengeance (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+    "tmdb_id": 1572,
+    "release_date": "1995-05-19"
+  },
+  "Diva (1981)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/x5fOCdfv0lRdeI71qLFdNEKWDsc.jpg",
+    "tmdb_id": 4485,
+    "release_date": "1981-03-11"
+  },
+  "Dirty Dancing (1987)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+    "tmdb_id": 88,
+    "release_date": "1987-08-21"
+  },
+  "Dolores Claiborne (1994)": {
+    "poster_url": null
+  },
+  "Don Juan DeMarco (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/fe0TuYz9jCKUba2Omj48K8bWJ8z.jpg",
+    "tmdb_id": 1909,
+    "release_date": "1994-10-12"
+  },
+  "Donnie Brasco (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg",
+    "tmdb_id": 9366,
+    "release_date": "1997-02-27"
+  },
+  "Down Periscope (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/brleKcHsirTw7lFqcgUMOfgL2nl.jpg",
+    "tmdb_id": 9101,
+    "release_date": "1996-03-01"
+  },
+  "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)": {
+    "poster_url": null
+  },
+  "Dragonheart (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1J2FvxEoEKMFT9TjUdfhm0MJhZD.jpg",
+    "tmdb_id": 8840,
+    "release_date": "1996-05-31"
+  },
+  "Duck Soup (1933)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+    "tmdb_id": 3063,
+    "release_date": "1933-11-12"
+  },
+  "Dumb & Dumber (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg",
+    "tmdb_id": 8467,
+    "release_date": "1994-12-16"
+  },
+  "E.T. the Extra-Terrestrial (1982)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+    "tmdb_id": 601,
+    "release_date": "1982-06-11"
+  },
+  "Dumbo (1941)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg",
+    "tmdb_id": 11360,
+    "release_date": "1941-10-31"
+  },
+  "East of Eden (1955)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+    "tmdb_id": 220,
+    "release_date": "1955-04-10"
+  },
+  "Eat Drink Man Woman (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/olhIWtIBFg6VWK59DEd4lAvgVgz.jpg",
+    "tmdb_id": 10451,
+    "release_date": "1994-08-03"
+  },
+  "Ed Wood (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/n8SrO3WbyuY2b6KazogqbQF348C.jpg",
+    "tmdb_id": 522,
+    "release_date": "1994-09-28"
+  },
+  "Emma (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/d6ksCUWYOaweyvGLi1JILYvIybN.jpg",
+    "tmdb_id": 12254,
+    "release_date": "1996-10-02"
+  },
+  "Edge, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zplJqfuUyqzW0D4jX3W1afl0d7b.jpg",
+    "tmdb_id": 9433,
+    "release_date": "1997-09-06"
+  },
+  "Empire Strikes Back, The (1980)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+    "tmdb_id": 1891,
+    "release_date": "1980-05-20"
+  },
+  "Enchanted April (1991)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/b4Jrg23Q3y7p8GS7aMnPdFiEcnP.jpg",
+    "tmdb_id": 26561,
+    "release_date": "1991-11-27"
+  },
+  "English Patient, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+    "tmdb_id": 409,
+    "release_date": "1996-11-14"
+  },
+  "Eraser (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/uu2gBpFElDfxTI6BI9bT4pZ4kvw.jpg",
+    "tmdb_id": 9268,
+    "release_date": "1996-06-21"
+  },
+  "Escape from New York (1981)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/vH9llaphjAssRGi0k7e75tD40Ce.jpg",
+    "tmdb_id": 1103,
+    "release_date": "1981-05-23"
+  },
+  "Escape from L.A. (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3L9lL2eUsmLNNfENPwNOc82Hzpw.jpg",
+    "tmdb_id": 10061,
+    "release_date": "1996-08-09"
+  },
+  "Eve's Bayou (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/33yTPcGSv7eo3FVlb7XKACHl1M8.jpg",
+    "tmdb_id": 45153,
+    "release_date": "1997-11-07"
+  },
+  "Event Horizon (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg",
+    "tmdb_id": 8413,
+    "release_date": "1997-08-15"
+  },
+  "Everyone Says I Love You (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/cFOZ4bNbWtnIIboc43M86yhwPBX.jpg",
+    "tmdb_id": 9716,
+    "release_date": "1996-12-06"
+  },
+  "Evil Dead II (1987)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+    "tmdb_id": 765,
+    "release_date": "1987-03-13"
+  },
+  "Evita (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/mVdQatilUGMtB6sV4FXA7O473UD.jpg",
+    "tmdb_id": 8818,
+    "release_date": "1996-12-14"
+  },
+  "Excess Baggage (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dfKaCA32iSkEQiu37drvIAZWZFz.jpg",
+    "tmdb_id": 26180,
+    "release_date": "1997-08-29"
+  },
+  "Executive Decision (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hLjXkFr9fHlWzRVwu1T31QSVHRq.jpg",
+    "tmdb_id": 2320,
+    "release_date": "1996-03-15"
+  },
+  "Extreme Measures (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/uowP2Nw2mLpQni1vtbUb1LUSiP0.jpg",
+    "tmdb_id": 11306,
+    "release_date": "1996-09-27"
+  },
+  "Face/Off (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg",
+    "tmdb_id": 754,
+    "release_date": "1997-06-27"
+  },
+  "Fan, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lu7CjP8YES5dJMCFg5O9o9jCkjl.jpg",
+    "tmdb_id": 9566,
+    "release_date": "1996-08-15"
+  },
+  "Fantasia (1940)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+    "tmdb_id": 756,
+    "release_date": "1940-11-13"
+  },
+  "Fargo (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+    "tmdb_id": 275,
+    "release_date": "1996-03-08"
+  },
+  "Father of the Bride (1950)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/sygyqqXq41SBZiYjY8nuQRAcuUv.jpg",
+    "tmdb_id": 20758,
+    "release_date": "1950-05-18"
+  },
+  "Field of Dreams (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/oeM7nAw6FVFICwUaXKCRkDsKjqO.jpg",
+    "tmdb_id": 2323,
+    "release_date": "1989-04-21"
+  },
+  "Father of the Bride Part II (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rj4LBtwQ0uGrpBnCELr716Qo3mw.jpg",
+    "tmdb_id": 11862,
+    "release_date": "1995-12-08"
+  },
+  "Fierce Creatures (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1Wl0zSEngmsTXjQMVE0GD5s85cM.jpg",
+    "tmdb_id": 12145,
+    "release_date": "1997-01-23"
+  },
+  "Fifth Element, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+    "tmdb_id": 18,
+    "release_date": "1997-05-02"
+  },
+  "Firm, The (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kFexXCzidkm4LwlgZqxsJsDQB5v.jpg",
+    "tmdb_id": 37233,
+    "release_date": "1993-06-30"
+  },
+  "First Knight (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dJH5bwtu3UxbwRsSlhlhmMrV8ZH.jpg",
+    "tmdb_id": 6520,
+    "release_date": "1995-07-07"
+  },
+  "First Wives Club, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2ApifgYnfdJUSmCKzTBrWOYYWsn.jpg",
+    "tmdb_id": 2925,
+    "release_date": "1996-09-20"
+  },
+  "Fish Called Wanda, A (1988)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hkSGFNVfEEUXFCxRZDITFHVhUlu.jpg",
+    "tmdb_id": 623,
+    "release_date": "1988-07-15"
+  },
+  "Fly Away Home (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/obcQJkZB2OsRxd5GWIcQ5Qjv4YW.jpg",
+    "tmdb_id": 11076,
+    "release_date": "1996-09-13"
+  },
+  "Flubber (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bnKvk04icAyCO1KjqhsaEXBO9aJ.jpg",
+    "tmdb_id": 9574,
+    "release_date": "1997-11-26"
+  },
+  "Forbidden Planet (1956)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg",
+    "tmdb_id": 830,
+    "release_date": "1956-03-23"
+  },
+  "Forget Paris (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/c2RwGHqWwvh7nmRKpdIyYUWMEvP.jpg",
+    "tmdb_id": 10525,
+    "release_date": "1995-05-19"
+  },
+  "Four Rooms (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/75aHn1NOYXh4M7L5shoeQ6NGykP.jpg",
+    "tmdb_id": 5,
+    "release_date": "1995-12-09"
+  },
+  "Forrest Gump (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+    "tmdb_id": 13,
+    "release_date": "1994-06-23"
+  },
+  "Four Weddings and a Funeral (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+    "tmdb_id": 712,
+    "release_date": "1994-03-09"
+  },
+  "Fox and the Hound, The (1981)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/aC3k6XBaYnulGSkK8263ABjU3Md.jpg",
+    "tmdb_id": 10948,
+    "release_date": "1981-07-10"
+  },
+  "French Kiss (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/q5hXdMfxSwhuOmWmkTJmm5qVijc.jpg",
+    "tmdb_id": 397,
+    "release_date": "1995-05-05"
+  },
+  "Fried Green Tomatoes (1991)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg",
+    "tmdb_id": 1633,
+    "release_date": "1991-12-27"
+  },
+  "Frighteners, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zcJbCMwFLJdn5OLjhYwMVaSB32R.jpg",
+    "tmdb_id": 10779,
+    "release_date": "1996-07-19"
+  },
+  "From Dusk Till Dawn (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+    "tmdb_id": 755,
+    "release_date": "1996-01-19"
+  },
+  "Fugitive, The (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+    "tmdb_id": 5503,
+    "release_date": "1993-08-06"
+  },
+  "Full Monty, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xkMiZv2FPrhIAtxvEcN1jAbkHRY.jpg",
+    "tmdb_id": 9427,
+    "release_date": "1997-08-13"
+  },
+  "Full Metal Jacket (1987)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+    "tmdb_id": 600,
+    "release_date": "1987-06-26"
+  },
+  "Game, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+    "tmdb_id": 2649,
+    "release_date": "1997-09-12"
+  },
+  "G.I. Jane (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/6yBgZJYqaR4XkxwjsB9tS4GK1ZN.jpg",
+    "tmdb_id": 4421,
+    "release_date": "1997-08-19"
+  },
+  "Gandhi (1982)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+    "tmdb_id": 783,
+    "release_date": "1982-12-01"
+  },
+  "George of the Jungle (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lWp8hUqE4oLPxsYgilXoYoVThfU.jpg",
+    "tmdb_id": 10603,
+    "release_date": "1997-07-15"
+  },
+  "Gattaca (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+    "tmdb_id": 782,
+    "release_date": "1997-07-09"
+  },
+  "Get Shorty (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/r82SdPhg4fnIcLt0ogIjQxqjdcO.jpg",
+    "tmdb_id": 8012,
+    "release_date": "1995-10-20"
+  },
+  "Ghost (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+    "tmdb_id": 251,
+    "release_date": "1990-07-13"
+  },
+  "Ghost and the Darkness, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3KEPs6RKlin9pT9fqjtW7MSLC8H.jpg",
+    "tmdb_id": 10586,
+    "release_date": "1996-10-11"
+  },
+  "Glengarry Glen Ross (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zcaEDx8KlVfh4vKfMNLhiSi5Oz4.jpg",
+    "tmdb_id": 9504,
+    "release_date": "1992-09-10"
+  },
+  "Giant (1956)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg",
+    "tmdb_id": 1712,
+    "release_date": "1956-11-08"
+  },
+  "Glory (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+    "tmdb_id": 9665,
+    "release_date": "1989-12-15"
+  },
+  "Godfather, The (1972)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "tmdb_id": 238,
+    "release_date": "1972-03-14"
+  },
+  "GoldenEye (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg",
+    "tmdb_id": 710,
+    "release_date": "1995-11-16"
+  },
+  "Godfather: Part II, The (1974)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+    "tmdb_id": 240,
+    "release_date": "1974-12-20"
+  },
+  "Gone with the Wind (1939)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+    "tmdb_id": 770,
+    "release_date": "1939-12-15"
+  },
+  "Good Will Hunting (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+    "tmdb_id": 489,
+    "release_date": "1997-12-05"
+  },
+  "Good, The Bad and The Ugly, The (1966)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+    "tmdb_id": 429,
+    "release_date": "1966-12-23"
+  },
+  "GoodFellas (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+    "tmdb_id": 769,
+    "release_date": "1990-09-12"
+  },
+  "Graduate, The (1967)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg",
+    "tmdb_id": 37247,
+    "release_date": "1967-12-21"
+  },
+  "Great Escape, The (1963)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+    "tmdb_id": 5925,
+    "release_date": "1963-07-03"
+  },
+  "Grease (1978)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+    "tmdb_id": 621,
+    "release_date": "1978-06-16"
+  },
+  "Grifters, The (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zMpGfkiDIdg5bB7WGcAT3Fdrfpt.jpg",
+    "tmdb_id": 18129,
+    "release_date": "1990-08-08"
+  },
+  "Grosse Pointe Blank (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/7lQ0MSNQqBTYpXTTZL82u1n95Z3.jpg",
+    "tmdb_id": 9434,
+    "release_date": "1997-04-11"
+  },
+  "Grand Day Out, A (1992)": {
+    "poster_url": null
+  },
+  "Groundhog Day (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+    "tmdb_id": 137,
+    "release_date": "1993-02-11"
+  },
+  "Grumpier Old Men (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1FSXpj5e8l4KH6nVFO5SPUeraOt.jpg",
+    "tmdb_id": 15602,
+    "release_date": "1995-12-22"
+  },
+  "Hamlet (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ilurgUOp6SCl4cuhfjctj1qxlfZ.jpg",
+    "tmdb_id": 10549,
+    "release_date": "1996-12-25"
+  },
+  "Harold and Maude (1971)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg",
+    "tmdb_id": 343,
+    "release_date": "1971-12-20"
+  },
+  "Happy Gilmore (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg",
+    "tmdb_id": 9614,
+    "release_date": "1996-02-16"
+  },
+  "Heat (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+    "tmdb_id": 949,
+    "release_date": "1995-12-15"
+  },
+  "Heathers (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+    "tmdb_id": 2640,
+    "release_date": "1989-03-31"
+  },
+  "Heavenly Creatures (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/AsZ286PDaYy8rZTKDDEbhrWV9gq.jpg",
+    "tmdb_id": 1024,
+    "release_date": "1994-09-12"
+  },
+  "Heavy Metal (1981)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/atUtWrDlLzT1yeVK2EoYtvbS963.jpg",
+    "tmdb_id": 11827,
+    "release_date": "1981-08-07"
+  },
+  "Hercules (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+    "tmdb_id": 11970,
+    "release_date": "1997-06-13"
+  },
+  "Henry V (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/w9R2HsYNnfF3m9uEo2UAmPNJr8a.jpg",
+    "tmdb_id": 10705,
+    "release_date": "1989-10-05"
+  },
+  "High Noon (1952)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg",
+    "tmdb_id": 288,
+    "release_date": "1952-06-09"
+  },
+  "Highlander (1986)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8Z8dptJEypuLoOQro1WugD855YE.jpg",
+    "tmdb_id": 8009,
+    "release_date": "1986-03-07"
+  },
+  "His Girl Friday (1940)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+    "tmdb_id": 3085,
+    "release_date": "1940-01-18"
+  },
+  "Home Alone (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+    "tmdb_id": 771,
+    "release_date": "1990-11-16"
+  },
+  "Homeward Bound: The Incredible Journey (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/el6dJEpK97OJRQiQhuiSGk2jkV5.jpg",
+    "tmdb_id": 6878,
+    "release_date": "1993-02-03"
+  },
+  "Home for the Holidays (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3zqlKdOttWyExzopVxglz50Vjxq.jpg",
+    "tmdb_id": 9089,
+    "release_date": "1995-11-02"
+  },
+  "Hoodlum (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hZrwqVXLyxxsNJHVc6bJKSUDkXA.jpg",
+    "tmdb_id": 22073,
+    "release_date": "1997-08-27"
+  },
+  "Hoop Dreams (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
+    "tmdb_id": 14275,
+    "release_date": "1994-09-12"
+  },
+  "How to Make an American Quilt (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/pI9UAemlWgdrnjRgYJsbTk8BSJc.jpg",
+    "tmdb_id": 11861,
+    "release_date": "1995-10-06"
+  },
+  "Hunchback of Notre Dame, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hImMgT9B27evYSRmfztqdDtX6qi.jpg",
+    "tmdb_id": 10545,
+    "release_date": "1996-06-21"
+  },
+  "Hot Shots! Part Deux (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zh9EGK970GHo10ETclWBOjZVUOK.jpg",
+    "tmdb_id": 9255,
+    "release_date": "1993-05-21"
+  },
+  "Hudsucker Proxy, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
+    "tmdb_id": 11934,
+    "release_date": "1994-03-11"
+  },
+  "Hunt for Red October, The (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+    "tmdb_id": 1669,
+    "release_date": "1990-03-02"
+  },
+  "I Know What You Did Last Summer (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dQyaJx0SptDqvQcAewAr8FAtLB2.jpg",
+    "tmdb_id": 3597,
+    "release_date": "1997-10-17"
+  },
+  "I.Q. (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5we3ZV6yiw13b8zGk4LuacuV8n7.jpg",
+    "tmdb_id": 11777,
+    "release_date": "1994-12-24"
+  },
+  "Immortal Beloved (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lkqz2R5pjXeDaiIjR3Z6JTGjtg6.jpg",
+    "tmdb_id": 13701,
+    "release_date": "1994-12-16"
+  },
+  "Ice Storm, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3a6uLta7K8Dzojps4RoJAPHD0km.jpg",
+    "tmdb_id": 68924,
+    "release_date": "1997-09-27"
+  },
+  "In & Out (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/jUTQp6cPgfOX4St2WfaeUvxZCts.jpg",
+    "tmdb_id": 10806,
+    "release_date": "1997-09-10"
+  },
+  "In the Company of Men (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1gPJ4H4TbGAiuEA6pFalFtqA0eL.jpg",
+    "tmdb_id": 14585,
+    "release_date": "1997-03-28"
+  },
+  "In the Line of Fire (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3NvOFpmyECI3DNExYMtFIRcGMsu.jpg",
+    "tmdb_id": 9386,
+    "release_date": "1993-07-08"
+  },
+  "In the Name of the Father (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3NcIkKxaO2SmRVsG1v50XhtmL0f.jpg",
+    "tmdb_id": 7984,
+    "release_date": "1993-12-27"
+  },
+  "Independence Day (ID4) (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gw01HpYoNXZbhG6GBQq8yGYPxnL.jpg",
+    "tmdb_id": 579480,
+    "release_date": "1996-06-30"
+  },
+  "Indiana Jones and the Last Crusade (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+    "tmdb_id": 89,
+    "release_date": "1989-05-24"
+  },
+  "Interview with the Vampire (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+    "tmdb_id": 628,
+    "release_date": "1994-11-11"
+  },
+  "Island of Dr. Moreau, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hOJeQXve8W9rNRhdgC1WV3GQJyA.jpg",
+    "tmdb_id": 9306,
+    "release_date": "1996-08-23"
+  },
+  "It Happened One Night (1934)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+    "tmdb_id": 3078,
+    "release_date": "1934-02-22"
+  },
+  "It's a Wonderful Life (1946)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+    "tmdb_id": 1585,
+    "release_date": "1946-12-20"
+  },
+  "Jack (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/9W6UI8UQ4YdLCAaPFd0lcKJ1tX4.jpg",
+    "tmdb_id": 7095,
+    "release_date": "1996-08-09"
+  },
+  "Jackie Brown (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+    "tmdb_id": 184,
+    "release_date": "1997-12-25"
+  },
+  "Jackie Chan's First Strike (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bRHbteT4IORJOXY0Qrnb4FPXRS0.jpg",
+    "tmdb_id": 9404,
+    "release_date": "1996-02-10"
+  },
+  "Jackal, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/oXF26QmDEaRaH9Fbhs3NXtcnryx.jpg",
+    "tmdb_id": 4824,
+    "release_date": "1997-11-14"
+  },
+  "James and the Giant Peach (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/vNEGobe23vW43mSPYVaVaBLP6qV.jpg",
+    "tmdb_id": 10539,
+    "release_date": "1996-04-12"
+  },
+  "Jane Eyre (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2vyt97wy8dEJYILoDoiPwTzLnzK.jpg",
+    "tmdb_id": 47333,
+    "release_date": "1996-01-20"
+  },
+  "Jaws (1975)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg",
+    "tmdb_id": 578,
+    "release_date": "1975-06-20"
+  },
+  "Jaws 2 (1978)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/cN3ijEwsn4kBaRuHfcJpAQJbeWe.jpg",
+    "tmdb_id": 579,
+    "release_date": "1978-06-16"
+  },
+  "Jean de Florette (1986)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/atjyDRdOnOi2S28X3mNtJ7CQmFj.jpg",
+    "tmdb_id": 4480,
+    "release_date": "1986-08-27"
+  },
+  "Jumanji (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg",
+    "tmdb_id": 8844,
+    "release_date": "1995-12-15"
+  },
+  "Jerry Maguire (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+    "tmdb_id": 9390,
+    "release_date": "1996-12-13"
+  },
+  "Jungle Book, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+    "tmdb_id": 9325,
+    "release_date": "1967-10-18"
+  },
+  "Jungle2Jungle (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/46ygt6dQuPk9E8DOjpDYK1zAnvt.jpg",
+    "tmdb_id": 14368,
+    "release_date": "1997-08-01"
+  },
+  "Jurassic Park (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg",
+    "tmdb_id": 329,
+    "release_date": "1993-06-11"
+  },
+  "Juror, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/31mRYhJvaknQx8PQnR2UV7YCkLT.jpg",
+    "tmdb_id": 9623,
+    "release_date": "1996-02-02"
+  },
+  "Kalifornia (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/aXyA3UvVaXBoX2zq9zH7NcK5rKT.jpg",
+    "tmdb_id": 10909,
+    "release_date": "1993-06-24"
+  },
+  "Kids in the Hall: Brain Candy (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/j7LYkIa2KC98ZqZmFIjEmtvlv87.jpg",
+    "tmdb_id": 18414,
+    "release_date": "1996-04-02"
+  },
+  "Killing Fields, The (1984)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/cX6Bv7natnZwQjsV9bLL8mmWjkS.jpg",
+    "tmdb_id": 625,
+    "release_date": "1984-11-23"
+  },
+  "Kingpin (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lVpejjxzBujSjLpxQ7hGe1s0wP2.jpg",
+    "tmdb_id": 11543,
+    "release_date": "1996-07-04"
+  },
+  "Kiss the Girls (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/25h5I3E3ydhazsPDnscWHivq5pn.jpg",
+    "tmdb_id": 9437,
+    "release_date": "1997-09-29"
+  },
+  "Kolya (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/fB0cGiEOngfsfyDHXIpFOmEwFgi.jpg",
+    "tmdb_id": 784,
+    "release_date": "1996-05-15"
+  },
+  "Koyaanisqatsi (1983)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+    "tmdb_id": 11314,
+    "release_date": "1983-04-27"
+  },
+  "Kull the Conqueror (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/cgKK2eCdb5LLaQBDQZbmR312q1O.jpg",
+    "tmdb_id": 17832,
+    "release_date": "1997-08-29"
+  },
+  "L.A. Confidential (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
+    "tmdb_id": 2118,
+    "release_date": "1997-09-19"
+  },
+  "Last Action Hero (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg",
+    "tmdb_id": 9593,
+    "release_date": "1993-06-18"
+  },
+  "Last Man Standing (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2cWqlkXaKKdl32Waep4FwCQnyH0.jpg",
+    "tmdb_id": 9333,
+    "release_date": "1996-09-20"
+  },
+  "Last Supper, The (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/oIgPiiM0qD1mCo1SYG3Sd0vmKTa.jpg",
+    "tmdb_id": 12520,
+    "release_date": "1995-09-08"
+  },
+  "Last of the Mohicans, The (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+    "tmdb_id": 9361,
+    "release_date": "1992-08-26"
+  },
+  "Lawrence of Arabia (1962)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+    "tmdb_id": 947,
+    "release_date": "1962-12-11"
+  },
+  "Lawnmower Man, The (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/aDACpFww9vkeyYOj5xrfJuxoQdK.jpg",
+    "tmdb_id": 10163,
+    "release_date": "1992-03-05"
+  },
+  "Legends of the Fall (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/t1KPGlW0UGd0m515LPQmk2F4nu1.jpg",
+    "tmdb_id": 4476,
+    "release_date": "1994-12-23"
+  },
+  "Leaving Las Vegas (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/wTrFpGe3U65kXTldIUxuM2hmOAK.jpg",
+    "tmdb_id": 451,
+    "release_date": "1995-10-27"
+  },
+  "Liar Liar (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/p1habYSdC7oD3WygQ5lynU5G5rV.jpg",
+    "tmdb_id": 1624,
+    "release_date": "1997-03-21"
+  },
+  "Life Less Ordinary, A (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/tk7WNEwLZepFU2yPIIkRuQOO0Q9.jpg",
+    "tmdb_id": 8067,
+    "release_date": "1997-10-24"
+  },
+  "Like Water For Chocolate (Como agua para chocolate) (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/itwUdMqLmPfhtGJ44hiDxkqZhiq.jpg",
+    "tmdb_id": 18183,
+    "release_date": "1992-04-16"
+  },
+  "Little Women (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1ZzH1XMcKAe5NdrKL5MfcqZHHsZ.jpg",
+    "tmdb_id": 9587,
+    "release_date": "1994-12-21"
+  },
+  "Lion King, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "tmdb_id": 8587,
+    "release_date": "1994-06-15"
+  },
+  "Local Hero (1983)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/jqxD0H9a1rg5bXftsm6gsNOjt4n.jpg",
+    "tmdb_id": 11235,
+    "release_date": "1983-02-17"
+  },
+  "Lone Star (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lBxY8znsRoqa9Dy2NCe8I6GPsRm.jpg",
+    "tmdb_id": 26748,
+    "release_date": "1996-06-21"
+  },
+  "Looking for Richard (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2iEgEoMP1S2YWKkYkwm8cgg2bBN.jpg",
+    "tmdb_id": 42314,
+    "release_date": "1996-10-11"
+  },
+  "Long Kiss Goodnight, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/yREdXX5lMFUKhTvb0ofI7mzUHlR.jpg",
+    "tmdb_id": 11412,
+    "release_date": "1996-10-11"
+  },
+  "Lost Highway (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg",
+    "tmdb_id": 638,
+    "release_date": "1997-01-15"
+  },
+  "Lost World: Jurassic Park, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/6fSkhv35nPSw9hwPVCMINQFG1WD.jpg",
+    "tmdb_id": 330,
+    "release_date": "1997-05-23"
+  },
+  "M*A*S*H (1970)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+    "tmdb_id": 651,
+    "release_date": "1970-02-18"
+  },
+  "Love Bug, The (1969)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/9Lc1efdYZUZia2zsRWcUkiD1KdN.jpg",
+    "tmdb_id": 14136,
+    "release_date": "1968-12-23"
+  },
+  "Magnificent Seven, The (1954)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+    "tmdb_id": 346,
+    "release_date": "1954-04-26"
+  },
+  "Madness of King George, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1dTSY023ZyBbgVSKDRuA6JLGSnZ.jpg",
+    "tmdb_id": 11318,
+    "release_date": "1994-12-28"
+  },
+  "Mallrats (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2ip0sGIMPN0XEN6q3lQIoaNI6tP.jpg",
+    "tmdb_id": 2293,
+    "release_date": "1995-10-20"
+  },
+  "Man Who Knew Too Little, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/yVlIZa0u6CTN5LudxGX77Fk46iz.jpg",
+    "tmdb_id": 9414,
+    "release_date": "1997-11-14"
+  },
+  "Man Who Would Be King, The (1975)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xnEhm0CtgJoM9Z1dGGSQAwxU7oJ.jpg",
+    "tmdb_id": 983,
+    "release_date": "1975-12-03"
+  },
+  "Maltese Falcon, The (1941)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+    "tmdb_id": 963,
+    "release_date": "1941-10-18"
+  },
+  "Man Without a Face, The (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/9dmH2jc6jwlZo90JQTFOx4XaBWt.jpg",
+    "tmdb_id": 10502,
+    "release_date": "1993-08-25"
+  },
+  "Manchurian Candidate, The (1962)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+    "tmdb_id": 982,
+    "release_date": "1962-10-24"
+  },
+  "Manhattan (1979)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+    "tmdb_id": 696,
+    "release_date": "1979-04-25"
+  },
+  "Manon of the Spring (Manon des sources) (1986)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1qpu6Zc1PSDL3UbDNIZJ6YuhJDW.jpg",
+    "tmdb_id": 4481,
+    "release_date": "1986-11-19"
+  },
+  "Mars Attacks! (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hll4O5vSAfnZDb6JbnP06GPtz7b.jpg",
+    "tmdb_id": 75,
+    "release_date": "1996-12-13"
+  },
+  "Marvin's Room (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lTHq1K5Y6EDRjxTBvReXHY6AKQ3.jpg",
+    "tmdb_id": 9819,
+    "release_date": "1996-12-18"
+  },
+  "Mary Poppins (1964)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/pHyWpWn2pRIfhS3Arcn4SKtKKW4.jpg",
+    "tmdb_id": 433,
+    "release_date": "1964-12-17"
+  },
+  "Mary Shelley's Frankenstein (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bOwCAQsZlEKrwhPi1ejY6BS8jpL.jpg",
+    "tmdb_id": 3036,
+    "release_date": "1994-11-04"
+  },
+  "Mask, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg",
+    "tmdb_id": 854,
+    "release_date": "1994-07-29"
+  },
+  "MatchMaker, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3TlW75w0Lo4uT6l8WRf3pdxbHHs.jpg",
+    "tmdb_id": 20457,
+    "release_date": "1997-10-03"
+  },
+  "Matilda (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+    "tmdb_id": 10830,
+    "release_date": "1996-08-02"
+  },
+  "Maverick (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/mTVbGGi5PIexmxVzeyFd2RYKwfM.jpg",
+    "tmdb_id": 9359,
+    "release_date": "1994-05-20"
+  },
+  "McHale's Navy (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/tg9qzqF349j526pNZnjPB4p2UED.jpg",
+    "tmdb_id": 14908,
+    "release_date": "1997-04-18"
+  },
+  "Men in Black (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+    "tmdb_id": 607,
+    "release_date": "1997-07-02"
+  },
+  "Menace II Society (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/nS7yqmSVeNoH22VXj69JoFCxW1h.jpg",
+    "tmdb_id": 9516,
+    "release_date": "1993-05-26"
+  },
+  "Michael (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/oprNZ2BvJG9ZV2g3JYeWQgsOZHe.jpg",
+    "tmdb_id": 2928,
+    "release_date": "1996-12-25"
+  },
+  "Michael Collins (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/brIBbU6t9glEGAKRTJ4PMj9OiDC.jpg",
+    "tmdb_id": 1770,
+    "release_date": "1996-10-25"
+  },
+  "Midnight in the Garden of Good and Evil (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/cXS5o6RIp8m1epBm5I7cX49bfFd.jpg",
+    "tmdb_id": 8197,
+    "release_date": "1997-11-21"
+  },
+  "Mighty Aphrodite (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ice135yQZp4iX2SgCmd90nKgS5j.jpg",
+    "tmdb_id": 11448,
+    "release_date": "1995-09-13"
+  },
+  "Miller's Crossing (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/i83gYdglRCjCRLSsmCk5nRWRmDM.jpg",
+    "tmdb_id": 379,
+    "release_date": "1990-09-21"
+  },
+  "Mimic (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ieRRo78f8JzEKxfiCKqJyFg6l8o.jpg",
+    "tmdb_id": 4961,
+    "release_date": "1997-08-22"
+  },
+  "Miracle on 34th Street (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg",
+    "tmdb_id": 10510,
+    "release_date": "1994-11-18"
+  },
+  "Mirror Has Two Faces, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ekk8MKMp3tlJjcMuhOgKsMCRrvR.jpg",
+    "tmdb_id": 25189,
+    "release_date": "1996-11-15"
+  },
+  "Mission: Impossible (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+    "tmdb_id": 954,
+    "release_date": "1996-05-22"
+  },
+  "Money Talks (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bN57Rl003E9pYred5kw9Rp8h9Np.jpg",
+    "tmdb_id": 9416,
+    "release_date": "1997-08-22"
+  },
+  "Monty Python and the Holy Grail (1974)": {
+    "poster_url": null
+  },
+  "Monty Python's Life of Brian (1979)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg",
+    "tmdb_id": 583,
+    "release_date": "1979-08-17"
+  },
+  "Mother (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/mxJJ0IEOOdvMo5yO7rcJBqyZ11n.jpg",
+    "tmdb_id": 27265,
+    "release_date": "1996-12-25"
+  },
+  "Mr. Holland's Opus (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kBmwWeSN3ajnYHZ3dSybEobxEPI.jpg",
+    "tmdb_id": 2054,
+    "release_date": "1995-12-29"
+  },
+  "Mr. Smith Goes to Washington (1939)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+    "tmdb_id": 3083,
+    "release_date": "1939-10-19"
+  },
+  "Mrs. Brown (Her Majesty, Mrs. Brown) (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/swVtcQj7AW2SaIcgThgw2i4fXN9.jpg",
+    "tmdb_id": 17589,
+    "release_date": "1997-07-18"
+  },
+  "Mrs. Doubtfire (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
+    "tmdb_id": 788,
+    "release_date": "1993-11-24"
+  },
+  "Much Ado About Nothing (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/tvltGP6vYOkHdURag0jPSjhPUAV.jpg",
+    "tmdb_id": 11971,
+    "release_date": "1993-05-07"
+  },
+  "Mulholland Falls (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/tT5rYDXloX5ZxISr8HdlRC9TBcP.jpg",
+    "tmdb_id": 10990,
+    "release_date": "1996-04-26"
+  },
+  "Multiplicity (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rlG2vi85uSEwWigVTtqDecVFTxR.jpg",
+    "tmdb_id": 9304,
+    "release_date": "1996-07-19"
+  },
+  "Murder at 1600 (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4WPR0m8zuzFAcRJAHcGs1AxkkpB.jpg",
+    "tmdb_id": 9415,
+    "release_date": "1997-04-18"
+  },
+  "Muppet Treasure Island (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/k4KW2CUkzDKaCy4H4cS02cO8gvV.jpg",
+    "tmdb_id": 10874,
+    "release_date": "1996-02-16"
+  },
+  "Muriel's Wedding (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg",
+    "tmdb_id": 236,
+    "release_date": "1994-09-29"
+  },
+  "Murder in the First (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/duUpJUmuz82OKMwGnKc8sCV7emS.jpg",
+    "tmdb_id": 8438,
+    "release_date": "1995-01-20"
+  },
+  "My Best Friend's Wedding (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
+    "tmdb_id": 8874,
+    "release_date": "1997-06-19"
+  },
+  "My Favorite Year (1982)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xksAhZJx1WmHM03OaePNe9IiEBt.jpg",
+    "tmdb_id": 31044,
+    "release_date": "1982-10-01"
+  },
+  "My Fair Lady (1964)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+    "tmdb_id": 11113,
+    "release_date": "1964-12-01"
+  },
+  "My Left Foot (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/GRAAl0bMQFoFIjV3aunc5jsM5u.jpg",
+    "tmdb_id": 10161,
+    "release_date": "1989-04-07"
+  },
+  "My Life as a Dog (Mitt liv som hund) (1985)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/eVg9IsX2HtR1BNYH0UAhF4JPHi7.jpg",
+    "tmdb_id": 8816,
+    "release_date": "1985-12-12"
+  },
+  "Mystery Science Theater 3000: The Movie (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/tlakU3uwNiUgd7aOlb2RoAsGTnY.jpg",
+    "tmdb_id": 3065,
+    "release_date": "1996-04-19"
+  },
+  "Naked Gun 33 1/3: The Final Insult (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/p0AYsdgkudR9P5fNV5AjzbwQt8W.jpg",
+    "tmdb_id": 36593,
+    "release_date": "1994-03-18"
+  },
+  "My Fellow Americans (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5odQxB2kTRyPOJiMjYY1SYHLVHs.jpg",
+    "tmdb_id": 17795,
+    "release_date": "1996-12-20"
+  },
+  "Natural Born Killers (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+    "tmdb_id": 241,
+    "release_date": "1994-08-26"
+  },
+  "Nell (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/aIDp3x2YfijtdherR28pIH6yenn.jpg",
+    "tmdb_id": 1945,
+    "release_date": "1994-12-23"
+  },
+  "Net, The (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+    "tmdb_id": 1642,
+    "release_date": "1995-07-28"
+  },
+  "Nightmare Before Christmas, The (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+    "tmdb_id": 9479,
+    "release_date": "1993-10-09"
+  },
+  "Night of the Living Dead (1968)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+    "tmdb_id": 10331,
+    "release_date": "1968-10-04"
+  },
+  "Nightmare on Elm Street, A (1984)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg",
+    "tmdb_id": 377,
+    "release_date": "1984-11-09"
+  },
+  "Nikita (La Femme Nikita) (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1ulQDewUG4KKHOhpXdGKm3GdLFq.jpg",
+    "tmdb_id": 9322,
+    "release_date": "1990-02-21"
+  },
+  "Nine Months (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/y3VwPenHpiuIGb0fhgyt7PXZKLB.jpg",
+    "tmdb_id": 11472,
+    "release_date": "1995-07-12"
+  },
+  "Nixon (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/cz2MTGr2wpDZLirgV2rGHBdA2t3.jpg",
+    "tmdb_id": 10858,
+    "release_date": "1995-12-22"
+  },
+  "North by Northwest (1959)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+    "tmdb_id": 213,
+    "release_date": "1959-08-06"
+  },
+  "Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zv7J85D8CC9qYagAEhPM63CIG6j.jpg",
+    "tmdb_id": 653,
+    "release_date": "1922-02-16"
+  },
+  "Notorious (1946)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4RERYb1NIQrJHYY5e8nUlYM7t2z.jpg",
+    "tmdb_id": 303,
+    "release_date": "1946-08-21"
+  },
+  "Nutty Professor, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg",
+    "tmdb_id": 9327,
+    "release_date": "1996-06-28"
+  },
+  "Old Yeller (1957)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/Xe7AB0ffhGPSdBZ4qJ9AKJfllL.jpg",
+    "tmdb_id": 22660,
+    "release_date": "1957-12-25"
+  },
+  "Omen, The (1976)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/mDcjjEu1fMNmsXi4l4D8IftlTix.jpg",
+    "tmdb_id": 794,
+    "release_date": "1976-06-25"
+  },
+  "On Golden Pond (1981)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ic4f03J6pnf9cpQmVDABFhUpbCU.jpg",
+    "tmdb_id": 11816,
+    "release_date": "1981-12-04"
+  },
+  "Once Upon a Time in America (1984)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+    "tmdb_id": 311,
+    "release_date": "1984-05-23"
+  },
+  "One Fine Day (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5NiRRR7JDNHOr21JNoGRxPWh9vb.jpg",
+    "tmdb_id": 7300,
+    "release_date": "1996-12-20"
+  },
+  "One Flew Over the Cuckoo's Nest (1975)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+    "tmdb_id": 510,
+    "release_date": "1975-11-19"
+  },
+  "Othello (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kyevuYzW36wKadiE8lftLac5VwQ.jpg",
+    "tmdb_id": 16420,
+    "release_date": "1995-12-15"
+  },
+  "Parent Trap, The (1961)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/jaZFWy6ZAvQoMW2mo9xP5gx4URo.jpg",
+    "tmdb_id": 19186,
+    "release_date": "1961-05-13"
+  },
+  "Patton (1970)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+    "tmdb_id": 11202,
+    "release_date": "1970-01-25"
+  },
+  "Outbreak (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4KymNvlWR0XF0sqX2BWRd9Z3yXR.jpg",
+    "tmdb_id": 6950,
+    "release_date": "1995-03-10"
+  },
+  "Peacemaker, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hc3p6pvIrfO4AmrVLb6qTviOwW2.jpg",
+    "tmdb_id": 6623,
+    "release_date": "1997-09-26"
+  },
+  "People vs. Larry Flynt, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/sAgHn7ys6TiVXBDTZ0UBEjinIUk.jpg",
+    "tmdb_id": 1630,
+    "release_date": "1996-12-25"
+  },
+  "Perfect World, A (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kWX2CYM5TbWaZwll4ysh7OjVUmJ.jpg",
+    "tmdb_id": 9559,
+    "release_date": "1993-11-24"
+  },
+  "Phenomenon (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/p4CGc4HxuMCDoYC3yVsdAMQDzGo.jpg",
+    "tmdb_id": 9294,
+    "release_date": "1996-07-05"
+  },
+  "Phantom, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8k8RSMkmGR9Lp6FbKtithM3KIQb.jpg",
+    "tmdb_id": 9826,
+    "release_date": "1996-06-06"
+  },
+  "Philadelphia (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5RLPhlKVmoggebXqizgKqwtmRvJ.jpg",
+    "tmdb_id": 9800,
+    "release_date": "1993-12-22"
+  },
+  "Philadelphia Story, The (1940)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg",
+    "tmdb_id": 981,
+    "release_date": "1940-12-05"
+  },
+  "Piano, The (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dUxjG6baSzGIgP7R8BQI5rpMuET.jpg",
+    "tmdb_id": 713,
+    "release_date": "1993-05-18"
+  },
+  "Pink Floyd - The Wall (1982)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+    "tmdb_id": 12104,
+    "release_date": "1982-07-14"
+  },
+  "Picture Perfect (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xYnvr4o7GEaA2uyt4Q1ASUI5Obv.jpg",
+    "tmdb_id": 9413,
+    "release_date": "1997-08-01"
+  },
+  "Pinocchio (1940)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
+    "tmdb_id": 10895,
+    "release_date": "1940-02-23"
+  },
+  "Platoon (1986)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+    "tmdb_id": 792,
+    "release_date": "1986-12-19"
+  },
+  "Pocahontas (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
+    "tmdb_id": 10530,
+    "release_date": "1995-06-16"
+  },
+  "Preacher's Wife, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg",
+    "tmdb_id": 21539,
+    "release_date": "1996-12-13"
+  },
+  "Postman, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/piVzOuKFLHNGLxnjwNtibC26lTy.jpg",
+    "tmdb_id": 9922,
+    "release_date": "1997-12-25"
+  },
+  "Pretty Woman (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hVHUfT801LQATGd26VPzhorIYza.jpg",
+    "tmdb_id": 114,
+    "release_date": "1990-03-23"
+  },
+  "Postino, Il (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/cUaCpjVDefYShKyLmkcDsiPaBHn.jpg",
+    "tmdb_id": 11010,
+    "release_date": "1994-09-22"
+  },
+  "Primal Fear (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+    "tmdb_id": 1592,
+    "release_date": "1996-04-03"
+  },
+  "Princess Bride, The (1987)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+    "tmdb_id": 2493,
+    "release_date": "1987-09-25"
+  },
+  "Private Benjamin (1980)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/maIiPNXddZXKHQCi0HyULd5kces.jpg",
+    "tmdb_id": 10765,
+    "release_date": "1980-10-06"
+  },
+  "Private Parts (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8nCc9fhXCVvetlqpxkrCTc9NwOz.jpg",
+    "tmdb_id": 9403,
+    "release_date": "1997-03-07"
+  },
+  "Psycho (1960)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+    "tmdb_id": 539,
+    "release_date": "1960-06-22"
+  },
+  "Professional, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+    "tmdb_id": 101,
+    "release_date": "1994-09-14"
+  },
+  "Pulp Fiction (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+    "tmdb_id": 680,
+    "release_date": "1994-09-10"
+  },
+  "Pump Up the Volume (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/s1SyKrARJG2R7FyS4zkNdaekLAW.jpg",
+    "tmdb_id": 8428,
+    "release_date": "1990-08-22"
+  },
+  "Quiet Man, The (1952)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/u3B1hVKHE56yBRoxF3Nk9uxHdYN.jpg",
+    "tmdb_id": 3109,
+    "release_date": "1952-07-21"
+  },
+  "Quiz Show (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/yoGJo1h3Hl2exXPVcG9UXWDENtX.jpg",
+    "tmdb_id": 11450,
+    "release_date": "1994-08-25"
+  },
+  "Raiders of the Lost Ark (1981)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+    "tmdb_id": 85,
+    "release_date": "1981-06-12"
+  },
+  "Raging Bull (1980)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+    "tmdb_id": 1578,
+    "release_date": "1980-11-14"
+  },
+  "Rainmaker, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/twLGHXPjQtS8UyVGp5GXmhJiTM7.jpg",
+    "tmdb_id": 11975,
+    "release_date": "1997-11-18"
+  },
+  "Raise the Red Lantern (1991)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/j6MGZpg55cTqlHHwahBtzI2qQg1.jpg",
+    "tmdb_id": 10404,
+    "release_date": "1991-12-18"
+  },
+  "Raising Arizona (1987)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
+    "tmdb_id": 378,
+    "release_date": "1987-03-13"
+  },
+  "Ran (1985)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1gKWXRVgesduqHDfR8siXppfELO.jpg",
+    "tmdb_id": 11645,
+    "release_date": "1985-06-01"
+  },
+  "Ransom (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4nmOA5ZOY2VlHzwSlKY03sF2JUz.jpg",
+    "tmdb_id": 3595,
+    "release_date": "1996-11-08"
+  },
+  "Real Genius (1985)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8az0Tr8hEGDmrUH9WlFz1QIKsMy.jpg",
+    "tmdb_id": 14370,
+    "release_date": "1985-08-07"
+  },
+  "Reality Bites (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/qGDhodtpkpxkrFqokenGNJlzt6w.jpg",
+    "tmdb_id": 2788,
+    "release_date": "1994-02-18"
+  },
+  "Rear Window (1954)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+    "tmdb_id": 567,
+    "release_date": "1954-08-01"
+  },
+  "Rebecca (1940)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
+    "tmdb_id": 223,
+    "release_date": "1940-03-23"
+  },
+  "Rebel Without a Cause (1955)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/yHStsC8rRRfIjqRN38BQsLh6S7k.jpg",
+    "tmdb_id": 221,
+    "release_date": "1955-10-27"
+  },
+  "Red Corner (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xsIbKOO1CacqTagyJmEGGf4kOnn.jpg",
+    "tmdb_id": 9407,
+    "release_date": "1997-10-30"
+  },
+  "Red Rock West (1992)": {
+    "poster_url": null
+  },
+  "Ref, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ym7Kx3iDmalK8kXKvVQwnFYABEV.jpg",
+    "tmdb_id": 10872,
+    "release_date": "1994-03-09"
+  },
+  "Remains of the Day, The (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/uDGDtqSvuch324WnM7Ukdp1bCAQ.jpg",
+    "tmdb_id": 1245,
+    "release_date": "1993-11-05"
+  },
+  "Reservoir Dogs (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+    "tmdb_id": 500,
+    "release_date": "1992-09-02"
+  },
+  "Restoration (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/z1YM3WFZnF2NwHT5IRGYUcvZBSl.jpg",
+    "tmdb_id": 35196,
+    "release_date": "1995-12-29"
+  },
+  "Return of the Jedi (1983)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+    "tmdb_id": 1892,
+    "release_date": "1983-05-25"
+  },
+  "Return of the Pink Panther, The (1974)": {
+    "poster_url": null
+  },
+  "Richard III (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/cBg1AMH1ucPsDlNMfcHlrreQXQX.jpg",
+    "tmdb_id": 31174,
+    "release_date": "1995-12-29"
+  },
+  "Right Stuff, The (1983)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kFR1p46HXJVVMpmOil8bNWnAQ50.jpg",
+    "tmdb_id": 9549,
+    "release_date": "1983-10-20"
+  },
+  "River Wild, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/wVgQ2T63ThjIsY4R0qoHXjyllql.jpg",
+    "tmdb_id": 8987,
+    "release_date": "1994-09-30"
+  },
+  "Rob Roy (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/kWI2rF6RAnRtEjfBlZgsXumgOm5.jpg",
+    "tmdb_id": 11780,
+    "release_date": "1995-04-13"
+  },
+  "Robin Hood: Men in Tights (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/woexOLEkUlYsPLLuZRK6LjZaF38.jpg",
+    "tmdb_id": 8005,
+    "release_date": "1993-07-28"
+  },
+  "Robin Hood: Prince of Thieves (1991)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hbRnWUNJkKKVN5mkcuC5ooqjE4e.jpg",
+    "tmdb_id": 8367,
+    "release_date": "1991-06-14"
+  },
+  "Rock, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/eBcoxveWzzXQrCrwWMGAROcqgpP.jpg",
+    "tmdb_id": 9802,
+    "release_date": "1996-06-07"
+  },
+  "Romy and Michele's High School Reunion (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/yLxgglhaP2QfWVZTdrv7mZgvuHL.jpg",
+    "tmdb_id": 9611,
+    "release_date": "1997-04-25"
+  },
+  "Room with a View, A (1986)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5xRAqywVo6tNUNQbAESGVP930la.jpg",
+    "tmdb_id": 11257,
+    "release_date": "1986-03-07"
+  },
+  "Roman Holiday (1953)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8lI9dmz1RH20FAqltkGelY1v4BE.jpg",
+    "tmdb_id": 804,
+    "release_date": "1953-08-26"
+  },
+  "Rosencrantz and Guildenstern Are Dead (1990)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/6RI9sYpRxIdqlmsF6kBOiF7Bxug.jpg",
+    "tmdb_id": 18971,
+    "release_date": "1991-02-08"
+  },
+  "Rudy (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/fAbfTCRpjHe2rprXBly55KL1dL9.jpg",
+    "tmdb_id": 14534,
+    "release_date": "1993-09-17"
+  },
+  "Rosewood (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5EeTYDXdrpD9mZSSwsrFbqgok9U.jpg",
+    "tmdb_id": 25624,
+    "release_date": "1997-02-21"
+  },
+  "Rumble in the Bronx (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/1nAfchiXHQB3iyhK8fCJJEnNs5A.jpg",
+    "tmdb_id": 33542,
+    "release_date": "1995-01-21"
+  },
+  "Sabrina (1954)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/e1Po9NDrH7IJZhv89467gJH5FS0.jpg",
+    "tmdb_id": 6620,
+    "release_date": "1954-09-01"
+  },
+  "Sabrina (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/i8PbLJDPU7vCwwscWD625oHbJy.jpg",
+    "tmdb_id": 11860,
+    "release_date": "1995-12-15"
+  },
+  "Santa Clause, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",
+    "tmdb_id": 11395,
+    "release_date": "1994-11-11"
+  },
+  "Saint, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/k43wPAVeepqzGwP52dKcknQjquj.jpg",
+    "tmdb_id": 10003,
+    "release_date": "1997-04-03"
+  },
+  "Schindler's List (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "tmdb_id": 424,
+    "release_date": "1993-12-15"
+  },
+  "Scream 2 (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",
+    "tmdb_id": 4233,
+    "release_date": "1997-12-12"
+  },
+  "Scream (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+    "tmdb_id": 4232,
+    "release_date": "1996-12-20"
+  },
+  "Searching for Bobby Fischer (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/oAJpHkMpfXiFY9F3HocIz9fhHLc.jpg",
+    "tmdb_id": 14291,
+    "release_date": "1993-08-13"
+  },
+  "Secret Garden, The (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zf6h5dJ7wVG7LqMO9dhHGHVejzj.jpg",
+    "tmdb_id": 11236,
+    "release_date": "1993-08-13"
+  },
+  "Secrets & Lies (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zQBuRQ3hrLhkEsXcxteUxuxLrvs.jpg",
+    "tmdb_id": 11159,
+    "release_date": "1996-05-24"
+  },
+  "Secret of Roan Inish, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2FFcEEMMrnXh3CFz3aON92sLkXP.jpg",
+    "tmdb_id": 14334,
+    "release_date": "1994-05-14"
+  },
+  "Sense and Sensibility (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+    "tmdb_id": 4584,
+    "release_date": "1995-12-13"
+  },
+  "Serial Mom (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/vAZkFho9YdIXPmMdHMwr10Go2FF.jpg",
+    "tmdb_id": 11592,
+    "release_date": "1994-04-13"
+  },
+  "Seven (Se7en) (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+    "tmdb_id": 807,
+    "release_date": "1995-09-22"
+  },
+  "Seven Years in Tibet (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5euQXAgJ34TdUFl1t3O6Jw2lJAs.jpg",
+    "tmdb_id": 978,
+    "release_date": "1997-09-12"
+  },
+  "Seventh Seal, The (Sjunde inseglet, Det) (1957)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+    "tmdb_id": 490,
+    "release_date": "1957-02-16"
+  },
+  "Sex, Lies, and Videotape (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/pj1uKm07svgXZDHbYE8AzRfNHcu.jpg",
+    "tmdb_id": 1412,
+    "release_date": "1989-08-04"
+  },
+  "Sgt. Bilko (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/q4zmVdQq35ZBj8uyxsU2RCPOQxo.jpg",
+    "tmdb_id": 9099,
+    "release_date": "1996-03-29"
+  },
+  "Shallow Grave (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gqvSKLbfIg1mja1ulVkVcLhdwWF.jpg",
+    "tmdb_id": 9905,
+    "release_date": "1994-12-22"
+  },
+  "Shadowlands (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5jTWY1M2O4Zhid4rLOpftzazRGn.jpg",
+    "tmdb_id": 10445,
+    "release_date": "1993-12-25"
+  },
+  "Shawshank Redemption, The (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "tmdb_id": 278,
+    "release_date": "1994-09-23"
+  },
+  "She's So Lovely (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/oZISQ7Cnmezs5NgBaL6uHUkDMFZ.jpg",
+    "tmdb_id": 38295,
+    "release_date": "1997-08-29"
+  },
+  "She's the One (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/wNd6qM8Qa8tLFOiUOiEivh0qBkH.jpg",
+    "tmdb_id": 11363,
+    "release_date": "1996-08-26"
+  },
+  "Shine (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/cbmThowj2XAW7lKlMAXmnhZvjGI.jpg",
+    "tmdb_id": 7863,
+    "release_date": "1996-08-15"
+  },
+  "Shining, The (1980)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+    "tmdb_id": 694,
+    "release_date": "1980-05-23"
+  },
+  "Short Cuts (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/mbNTvbtWfV4soyErimDTdX67OAr.jpg",
+    "tmdb_id": 695,
+    "release_date": "1993-10-01"
+  },
+  "Singin' in the Rain (1952)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+    "tmdb_id": 872,
+    "release_date": "1952-04-10"
+  },
+  "Silence of the Lambs, The (1991)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+    "tmdb_id": 274,
+    "release_date": "1991-02-14"
+  },
+  "Six Degrees of Separation (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bROsFCnsHr0e09M7VA0aCcNF432.jpg",
+    "tmdb_id": 23210,
+    "release_date": "1993-12-08"
+  },
+  "Sleeper (1973)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/YTYSziZZP5aXt5CDvdEMwKDzme.jpg",
+    "tmdb_id": 11561,
+    "release_date": "1973-12-17"
+  },
+  "Sirens (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/bOUDHgOlxANs1KsYZEsLSjZBTkd.jpg",
+    "tmdb_id": 12519,
+    "release_date": "1994-03-04"
+  },
+  "Sleepers (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/yUpiEk2EojS9ZEXb3nIQonQCYYF.jpg",
+    "tmdb_id": 819,
+    "release_date": "1996-10-18"
+  },
+  "Sling Blade (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ivBIBd1LNaozcmytZUyE1yIXZms.jpg",
+    "tmdb_id": 12498,
+    "release_date": "1996-08-30"
+  },
+  "Sleepless in Seattle (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+    "tmdb_id": 858,
+    "release_date": "1993-06-24"
+  },
+  "Sneakers (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/l2pIGwCvpZEpBuMb55YBl6A04Jv.jpg",
+    "tmdb_id": 2322,
+    "release_date": "1992-09-09"
+  },
+  "Smoke (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/phvnN7OPEnlHoAZe8nsSqPDD8B0.jpg",
+    "tmdb_id": 10149,
+    "release_date": "1995-06-09"
+  },
+  "Snow White and the Seven Dwarfs (1937)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+    "tmdb_id": 408,
+    "release_date": "1938-01-14"
+  },
+  "So I Married an Axe Murderer (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zQlpQDKDADKlgqfMs1E191ofDJU.jpg",
+    "tmdb_id": 10442,
+    "release_date": "1993-07-30"
+  },
+  "Some Kind of Wonderful (1987)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/6z6ZUrwbAJl9Nq43OY77O7iY80x.jpg",
+    "tmdb_id": 15143,
+    "release_date": "1987-02-27"
+  },
+  "Somewhere in Time (1980)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hmdegiSwVYUNvEfihaE3HRM3Sos.jpg",
+    "tmdb_id": 16633,
+    "release_date": "1980-10-02"
+  },
+  "Some Like It Hot (1959)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+    "tmdb_id": 239,
+    "release_date": "1959-03-19"
+  },
+  "Sophie's Choice (1982)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rZDPbPTFwuKgr5b9jixGFNYkGYt.jpg",
+    "tmdb_id": 15764,
+    "release_date": "1982-12-08"
+  },
+  "Soul Food (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/97t6YjxjTpwQ439MJcPiPDrMAg0.jpg",
+    "tmdb_id": 29461,
+    "release_date": "1997-09-26"
+  },
+  "Sound of Music, The (1965)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+    "tmdb_id": 15121,
+    "release_date": "1965-03-29"
+  },
+  "Spawn (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3svvunKXkhRvEKByGDua1Qu0otq.jpg",
+    "tmdb_id": 10336,
+    "release_date": "1997-07-31"
+  },
+  "Space Jam (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg",
+    "tmdb_id": 2300,
+    "release_date": "1996-11-15"
+  },
+  "Speed (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
+    "tmdb_id": 1637,
+    "release_date": "1994-06-09"
+  },
+  "Spitfire Grill, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8msETDMD6sxIkN3YtIFbCy23CBP.jpg",
+    "tmdb_id": 47907,
+    "release_date": "1996-08-23"
+  },
+  "Stand by Me (1986)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+    "tmdb_id": 235,
+    "release_date": "1986-08-08"
+  },
+  "Star Trek III: The Search for Spock (1984)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/yqEj0oPfKBMCz7YcCARHDgH7VFm.jpg",
+    "tmdb_id": 157,
+    "release_date": "1984-06-01"
+  },
+  "Star Trek V: The Final Frontier (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/uiXr41VLYsuug3CZbFrKLSNahuZ.jpg",
+    "tmdb_id": 172,
+    "release_date": "1989-06-09"
+  },
+  "Star Trek IV: The Voyage Home (1986)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+    "tmdb_id": 168,
+    "release_date": "1986-11-26"
+  },
+  "Star Trek VI: The Undiscovered Country (1991)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg",
+    "tmdb_id": 174,
+    "release_date": "1991-12-06"
+  },
+  "Star Trek: First Contact (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/iqhHe893Vcf07jNkNQ31tu85dKG.jpg",
+    "tmdb_id": 199,
+    "release_date": "1996-11-22"
+  },
+  "Star Trek: The Motion Picture (1979)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg",
+    "tmdb_id": 152,
+    "release_date": "1979-12-07"
+  },
+  "Star Trek: Generations (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gh0ZZRwSmlzEZTIZee3ZCN9Jssx.jpg",
+    "tmdb_id": 193,
+    "release_date": "1994-11-18"
+  },
+  "Star Trek: The Wrath of Khan (1982)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+    "tmdb_id": 154,
+    "release_date": "1982-06-04"
+  },
+  "Star Wars (1977)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "tmdb_id": 11,
+    "release_date": "1977-05-25"
+  },
+  "Stargate (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4T6Po0XnZlevmhfPh3ZfEs5butR.jpg",
+    "tmdb_id": 2164,
+    "release_date": "1994-10-28"
+  },
+  "Starship Troopers (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+    "tmdb_id": 563,
+    "release_date": "1997-11-07"
+  },
+  "Stealing Beauty (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5ugxnyVmBK952bwOcE4M0szNimx.jpg",
+    "tmdb_id": 14553,
+    "release_date": "1996-03-29"
+  },
+  "Sting, The (1973)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ckmYng37zey8INYf6d10cVgIG93.jpg",
+    "tmdb_id": 9277,
+    "release_date": "1973-12-25"
+  },
+  "Strange Days (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
+    "tmdb_id": 281,
+    "release_date": "1995-10-13"
+  },
+  "Streetcar Named Desire, A (1951)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+    "tmdb_id": 702,
+    "release_date": "1951-09-18"
+  },
+  "Strictly Ballroom (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/f6vs4DQGuNpLuA5Z7k69uuKpbVG.jpg",
+    "tmdb_id": 10409,
+    "release_date": "1992-08-20"
+  },
+  "Striptease (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4zMy6R7acotCmGoDk4sjzRtDwKn.jpg",
+    "tmdb_id": 9879,
+    "release_date": "1996-06-28"
+  },
+  "Sunset Blvd. (1950)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
+    "tmdb_id": 599,
+    "release_date": "1950-08-10"
+  },
+  "Supercop (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/wHeJWZDXegVEiBGBfnc7LGffuF6.jpg",
+    "tmdb_id": 11134,
+    "release_date": "1992-07-04"
+  },
+  "Swingers (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rRjWk68kU3a2so4lgr3TKB7Y5vA.jpg",
+    "tmdb_id": 10218,
+    "release_date": "1996-10-18"
+  },
+  "Sword in the Stone, The (1963)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg",
+    "tmdb_id": 9078,
+    "release_date": "1963-12-25"
+  },
+  "Tales from the Crypt Presents: Bordello of Blood (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/aKkUQ0Zd9TFlqfcMMHFKQBB15wZ.jpg",
+    "tmdb_id": 9431,
+    "release_date": "1996-08-16"
+  },
+  "Taxi Driver (1976)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+    "tmdb_id": 103,
+    "release_date": "1976-02-09"
+  },
+  "Terminator 2: Judgment Day (1991)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+    "tmdb_id": 280,
+    "release_date": "1991-07-03"
+  },
+  "Terminator, The (1984)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+    "tmdb_id": 218,
+    "release_date": "1984-10-26"
+  },
+  "That Thing You Do! (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/9RmZu33qHdyZFGLfhEOmkTjdNEu.jpg",
+    "tmdb_id": 9591,
+    "release_date": "1996-10-04"
+  },
+  "Thin Man, The (1934)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/6cL89ok9t8xEKboOjOVga2W66jj.jpg",
+    "tmdb_id": 3529,
+    "release_date": "1934-05-25"
+  },
+  "Things to Do in Denver when You're Dead (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3LxYzYybOVpnw0juCSlNL5cj8NK.jpg",
+    "tmdb_id": 400,
+    "release_date": "1995-12-01"
+  },
+  "Third Man, The (1949)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
+    "tmdb_id": 1092,
+    "release_date": "1949-08-31"
+  },
+  "This Is Spinal Tap (1984)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
+    "tmdb_id": 11031,
+    "release_date": "1984-03-02"
+  },
+  "Three Colors: Blue (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
+    "tmdb_id": 108,
+    "release_date": "1993-09-08"
+  },
+  "Three Colors: Red (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/JHmsBiX1tjCKqAul1lzC20WcAW.jpg",
+    "tmdb_id": 110,
+    "release_date": "1994-05-12"
+  },
+  "Three Colors: White (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/fdIet3NSa27gobMbaUml66oCQNT.jpg",
+    "tmdb_id": 109,
+    "release_date": "1994-01-26"
+  },
+  "Three Musketeers, The (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/mk8UH7JRmK8adcqJJpB1ygP7B1C.jpg",
+    "tmdb_id": 10057,
+    "release_date": "1993-11-11"
+  },
+  "Time to Kill, A (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/w8UCke112E9jrhjKcwG32kyhTx5.jpg",
+    "tmdb_id": 1645,
+    "release_date": "1996-07-24"
+  },
+  "Tin Cup (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rB7OvMmjcBFoogleORaUqrRgp8g.jpg",
+    "tmdb_id": 10478,
+    "release_date": "1996-08-16"
+  },
+  "Tin Men (1987)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5rWE9ft0Uc2kuDWlkg5vQth58XZ.jpg",
+    "tmdb_id": 10896,
+    "release_date": "1987-03-06"
+  },
+  "Titanic (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "tmdb_id": 597,
+    "release_date": "1997-12-18"
+  },
+  "To Catch a Thief (1955)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/6M6NwjV3XvtayljoiZ8wRHOKCQG.jpg",
+    "tmdb_id": 381,
+    "release_date": "1955-08-03"
+  },
+  "To Kill a Mockingbird (1962)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg",
+    "tmdb_id": 595,
+    "release_date": "1962-12-20"
+  },
+  "To Die For (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/whz4bwvqE1OmQHIyqHdZD8jU9CO.jpg",
+    "tmdb_id": 577,
+    "release_date": "1995-09-22"
+  },
+  "To Wong Foo, Thanks for Everything! Julie Newmar (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8bkJiI6N8wDxAtQ49bLUt0qCBII.jpg",
+    "tmdb_id": 9090,
+    "release_date": "1995-09-08"
+  },
+  "Tombstone (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+    "tmdb_id": 11969,
+    "release_date": "1993-12-25"
+  },
+  "Tommy Boy (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/jeEM8v1OA9u6F5NC2lzXD04Ls1U.jpg",
+    "tmdb_id": 11381,
+    "release_date": "1995-03-31"
+  },
+  "Toy Story (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "tmdb_id": 862,
+    "release_date": "1995-11-22"
+  },
+  "Tomorrow Never Dies (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gZm002w7q9yLOkltxT76TWGfdZX.jpg",
+    "tmdb_id": 714,
+    "release_date": "1997-12-11"
+  },
+  "Top Gun (1986)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+    "tmdb_id": 744,
+    "release_date": "1986-05-16"
+  },
+  "Trainspotting (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/y0HmDV0bZDTtXWHqqYYbT9XoshB.jpg",
+    "tmdb_id": 627,
+    "release_date": "1996-02-23"
+  },
+  "Treasure of the Sierra Madre, The (1948)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+    "tmdb_id": 3090,
+    "release_date": "1948-01-15"
+  },
+  "Trees Lounge (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/2DtoVhI9RkArGbzkvctGxY578QN.jpg",
+    "tmdb_id": 27845,
+    "release_date": "1996-05-11"
+  },
+  "True Lies (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+    "tmdb_id": 36955,
+    "release_date": "1994-07-15"
+  },
+  "True Romance (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+    "tmdb_id": 319,
+    "release_date": "1993-09-09"
+  },
+  "Truth About Cats & Dogs, The (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/iECTzpGdAMrkEeoYvuYsCxdmW2G.jpg",
+    "tmdb_id": 8866,
+    "release_date": "1996-04-26"
+  },
+  "Twelve Monkeys (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+    "tmdb_id": 63,
+    "release_date": "1995-12-29"
+  },
+  "Twister (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/d4ie3f6QTvNw40V770Uzo87SDZn.jpg",
+    "tmdb_id": 664,
+    "release_date": "1996-05-10"
+  },
+  "U Turn (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/nBPTj1ApIDWo04M14rXFwLPdtr2.jpg",
+    "tmdb_id": 10155,
+    "release_date": "1997-10-03"
+  },
+  "Ulee's Gold (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/wMpZ7U7A0QHJptR9L573V3Y7SI0.jpg",
+    "tmdb_id": 55306,
+    "release_date": "1997-06-13"
+  },
+  "Under Siege (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/myHxm9p8fhEsXyaLO6DawYJKolg.jpg",
+    "tmdb_id": 8845,
+    "release_date": "1992-10-08"
+  },
+  "Unbearable Lightness of Being, The (1988)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/g1kPEwATsCI8DnGx6ViAhUVKQSI.jpg",
+    "tmdb_id": 10644,
+    "release_date": "1988-02-05"
+  },
+  "Unforgiven (1992)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/54roTwbX9fltg85zjsmrooXAs12.jpg",
+    "tmdb_id": 33,
+    "release_date": "1992-08-07"
+  },
+  "Up Close and Personal (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zF67qcf7skMHLpXnifodinUqCFr.jpg",
+    "tmdb_id": 9302,
+    "release_date": "1996-03-01"
+  },
+  "Usual Suspects, The (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+    "tmdb_id": 629,
+    "release_date": "1995-07-19"
+  },
+  "Vegas Vacation (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/jUOreo2AWDnPuRJsUp6T1i66tUe.jpg",
+    "tmdb_id": 11419,
+    "release_date": "1997-02-13"
+  },
+  "Vertigo (1958)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+    "tmdb_id": 426,
+    "release_date": "1958-05-09"
+  },
+  "Victor/Victoria (1982)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/mCjXcPRM3Rc7gOCGeVrBdPvF2bk.jpg",
+    "tmdb_id": 12614,
+    "release_date": "1982-04-25"
+  },
+  "Very Brady Sequel, A (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/7xqOkzAQvXCLkDtmlWU6HZnOhru.jpg",
+    "tmdb_id": 12606,
+    "release_date": "1996-08-23"
+  },
+  "Volcano (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5xIjktjXuro7anZ6AR58t5ZYWjQ.jpg",
+    "tmdb_id": 10357,
+    "release_date": "1997-04-25"
+  },
+  "Wag the Dog (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/wyQDucg22FivG3Rz7CpaOY64eMr.jpg",
+    "tmdb_id": 586,
+    "release_date": "1997-12-25"
+  },
+  "Walk in the Clouds, A (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/xencQzZnUWDRAOUydjf9PWet8Ae.jpg",
+    "tmdb_id": 9560,
+    "release_date": "1995-05-27"
+  },
+  "Waterworld (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/X4UyUO5jgzs3c5YafnmYKLKKYw.jpg",
+    "tmdb_id": 9804,
+    "release_date": "1995-07-28"
+  },
+  "Wallace & Gromit: The Best of Aardman Animation (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/tWkYclnnChwoMMBFECsEjd5hb77.jpg",
+    "tmdb_id": 503475,
+    "release_date": "1996-06-14"
+  },
+  "Weekend at Bernie's (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/4RtjBkBSqHG46uieHgTtM7oKlpo.jpg",
+    "tmdb_id": 8491,
+    "release_date": "1989-07-05"
+  },
+  "Wedding Singer, The (1998)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/zVvyTrcZQb7kC2DPDzyo25WcxXp.jpg",
+    "tmdb_id": 11003,
+    "release_date": "1998-02-13"
+  },
+  "What's Eating Gilbert Grape (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/8FxWgsfDNosewo7H65oE4QkOb7g.jpg",
+    "tmdb_id": 1587,
+    "release_date": "1993-12-17"
+  },
+  "Welcome to the Dollhouse (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/fsMMOVto87pvUQyozOF9CaT9aMR.jpg",
+    "tmdb_id": 11446,
+    "release_date": "1996-03-22"
+  },
+  "When Harry Met Sally... (1989)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+    "tmdb_id": 639,
+    "release_date": "1989-07-12"
+  },
+  "White Squall (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5xF4qy44Lvv68glS7eHWH7laTqt.jpg",
+    "tmdb_id": 10534,
+    "release_date": "1996-02-02"
+  },
+  "Willy Wonka and the Chocolate Factory (1971)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+    "tmdb_id": 252,
+    "release_date": "1971-06-29"
+  },
+  "Wings of Desire (1987)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+    "tmdb_id": 144,
+    "release_date": "1987-09-23"
+  },
+  "William Shakespeare's Romeo and Juliet (1996)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/eLf4jclPijOqfEp6bDAmezRFxk5.jpg",
+    "tmdb_id": 454,
+    "release_date": "1996-11-01"
+  },
+  "Wings of the Dove, The (1997)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/eb1ZnIEC8LMmMgwD2fIAmQOkcd.jpg",
+    "tmdb_id": 45609,
+    "release_date": "1997-09-04"
+  },
+  "While You Were Sleeping (1995)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
+    "tmdb_id": 2064,
+    "release_date": "1995-04-21"
+  },
+  "Winnie the Pooh and the Blustery Day (1968)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5kNFx8GW0zgtLDkhfNBOMMVmJTX.jpg",
+    "tmdb_id": 81310,
+    "release_date": "1968-12-20"
+  },
+  "Wizard of Oz, The (1939)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+    "tmdb_id": 630,
+    "release_date": "1939-08-15"
+  },
+  "Wolf (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/5TprU55U2zjAMCwr2jQra3zj1zu.jpg",
+    "tmdb_id": 10395,
+    "release_date": "1994-06-17"
+  },
+  "Wrong Trousers, The (1993)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/mV8SDTjkxrDxu0a0egvFz1lRPU7.jpg",
+    "tmdb_id": 531,
+    "release_date": "1993-12-17"
+  },
+  "Wyatt Earp (1994)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/51LItgyecu2KMAtIchYogEykCIu.jpg",
+    "tmdb_id": 12160,
+    "release_date": "1994-06-24"
+  },
+  "Young Frankenstein (1974)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3BvvVKPg9yucChlSvQtJxAbLmj9.jpg",
+    "tmdb_id": 3034,
+    "release_date": "1974-12-15"
+  },
+  "Young Guns (1988)": {
+    "poster_url": "https://image.tmdb.org/t/p/w500/3AgCq7xY1rHRAAn0iVcnNr2OWL.jpg",
+    "tmdb_id": 11967,
+    "release_date": "1988-08-12"
+  }
+}

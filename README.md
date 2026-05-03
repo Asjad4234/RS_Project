@@ -15,7 +15,7 @@ $$\cos(\theta) = \frac{A \cdot B}{\|A\| \|B\|}$$
 ## Project Structure
 - `app.py`: Flask REST API serving recommendations and movie lists.
 * `Movie_Recommender_User_Input.py`: Core logic and CLI version of the recommender.
-* `frontend/`: Modern React 19 interface with live autocomplete and visual similarity feedback.
+* `RS_Front/`: React frontend (Vite + React 19) included in this repository — start from that folder.
 * `u.data` / `u.item`: MovieLens 100K dataset files.
 
 ## How to Run
@@ -31,7 +31,7 @@ python app.py
 
 **Start the Frontend UI:**
 ```powershell
-cd frontend
+cd RS_Front
 npm install
 npm run dev
 ```
