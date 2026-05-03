@@ -10,7 +10,10 @@ from typing import Optional, Dict, Any
 # Load environment variables from .env file
 try:
     from dotenv import load_dotenv
-    load_dotenv()
+    # Use absolute path to the .env file in the same directory as this script
+    env_path = os.path.join(os.path.dirname(__file__), '.env')
+    print(f"🔍 DEBUG: Attempting to load .env from: {env_path}")
+    load_dotenv(dotenv_path=env_path)
 except ImportError:
     pass  # python-dotenv not installed, use system env vars
 
@@ -25,8 +28,8 @@ if not TMDB_API_KEY:
     print("⚠️  WARNING: TMDB_API_KEY environment variable not set!")
     print("   Movie posters will not load.")
     print("   Setup instructions:")
-    print("   1. Create a .env file in RS_Back/")
-    print("   2. Add: TMDB_API_KEY=your_api_key_here")
+    print("   1. Check the .env file in RS_Project/")
+    print("   2. Ensure it contains: TMDB_API_KEY=your_api_key_here")
     print("   3. Get a free key from: https://www.themoviedb.org/settings/api")
     print("   4. Restart the backend")
     print()
