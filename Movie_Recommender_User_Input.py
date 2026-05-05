@@ -327,6 +327,103 @@ def get_hybrid_recommendations(user_id, movie_title, top_n=TOP_N,
     return result
 
 
+# ══════════════════════════════════════════════════════════════════
+# CONTENT-BASED FILTERING MODULE (Cold Start Fallback)
+# ══════════════════════════════════════════════════════════════════
+
+def build_content_similarity_matrix(movies_df=None):
+    """
+    Compute pairwise cosine similarity on the binary genre matrix.
+    
+    Why cosine similarity? It measures the angle between genre vectors,
+    so a pure Action movie and a mixed Action/Drama share partial similarity
+    rather than being fully penalised for not matching exactly.
+    
+    Args:
+        movies_df: DataFrame with title and genre columns. If None, uses movies_with_genres.
+    
+    Returns:
+        DataFrame: rows and columns are movie titles, values are cosine similarities [0,1]
+    """
+    if movies_df is None:
+        movies_df = movies_with_genres.copy()
+    
+    # Extract genre columns for all movies
+    genre_matrix = movies_df.set_index('title')[genre_names].values
+    similarity_matrix = cosine_similarity(genre_matrix)
+    
+    return pd.DataFrame(
+        similarity_matrix,
+        index=movies_df['title'],
+        columns=movies_df['title']
+    )
+
+
+def get_content_based_recommendations(
+    query_title,
+    content_sim_df,
+    top_n=10,
+    exclude_titles=None
+):
+    """
+    Return top-N movies most similar to query_title by genre vector.
+    
+    This is the PRIMARY fallback for:
+      - Movies with fewer than MIN_RATINGS_THRESHOLD ratings
+      - Any movie not found in the collaborative filtering matrix
+      - New movies added after the ratings dataset was built
+    
+    Args:
+        query_title: The movie to base recommendations on
+        content_sim_df: Precomputed cosine similarity DataFrame (from build_content_similarity_matrix)
+        top_n: How many results to return
+        exclude_titles: Titles to remove from results (e.g., already in My List)
+    
+    Returns:
+        DataFrame with columns: [rank, title, content_similarity_score]
+    """
+    if query_title not in content_sim_df.index:
+        # Try partial match (handles minor title formatting differences)
+        matches = [t for t in content_sim_df.index if query_title.lower() in t.lower()]
+        if not matches:
+            return pd.DataFrame(columns=['rank', 'title', 'content_similarity_score'])
+        query_title = matches[0]
+    
+    scores = content_sim_df[query_title].drop(query_title)  # Exclude self
+    
+    if exclude_titles:
+        scores = scores.drop(
+            labels=[t for t in exclude_titles if t in scores.index],
+            errors='ignore'
+        )
+    
+    top = scores.nlargest(top_n).reset_index()
+    top.columns = ['title', 'content_similarity_score']
+    top['rank'] = range(1, len(top) + 1)
+    
+    return top[['rank', 'title', 'content_similarity_score']]
+
+
+def get_shared_genres(title_a, title_b, movies_df=None):
+    """
+    Return genre labels shared between two movies.
+    Used to produce natural-language genre overlap explanations.
+    
+    Returns:
+        List of genre strings (e.g., ['Action', 'Drama'])
+    """
+    if movies_df is None:
+        movies_df = movies_with_genres
+    
+    try:
+        row_a = movies_df[movies_df['title'] == title_a].iloc[0]
+        row_b = movies_df[movies_df['title'] == title_b].iloc[0]
+        shared = [g for g in genre_names if row_a[g] == 1 and row_b[g] == 1]
+        return shared
+    except (IndexError, KeyError):
+        return []
+
+
 # ── Main ─────────────────────────────────────────────────
 if __name__ == '__main__':
     try:

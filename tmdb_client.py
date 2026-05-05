@@ -99,6 +99,143 @@ def get_poster_url(movie_data: Optional[Dict[str, Any]]) -> Optional[str]:
     return None
 
 
+@lru_cache(maxsize=500)
+def get_movie_cast(movie_id: int) -> Optional[list]:
+    """
+    Fetch cast information for a movie, including actor profile images.
+    Perfect for getting character/actor avatars.
+    
+    Args:
+        movie_id: TMDB movie ID
+    
+    Returns:
+        List of cast members with name, character, and profile_path
+    """
+    if not TMDB_API_KEY:
+        return None
+    
+    try:
+        params = {
+            "api_key": TMDB_API_KEY,
+        }
+        
+        response = requests.get(
+            f"{TMDB_API_BASE}/movie/{movie_id}/credits",
+            params=params,
+            timeout=5
+        )
+        response.raise_for_status()
+        
+        data = response.json()
+        cast = []
+        
+        for member in data.get("cast", [])[:10]:  # Top 10 cast members
+            if member.get("profile_path"):  # Only include those with profile images
+                cast.append({
+                    "name": member.get("name"),
+                    "character": member.get("character"),
+                    "profile_path": member.get("profile_path"),
+                    "profile_url": f"{TMDB_IMAGE_BASE}{member.get('profile_path')}"
+                })
+        
+        return cast if cast else None
+    except Exception as e:
+        print(f"Error fetching cast for movie {movie_id}: {str(e)}")
+        return None
+
+
+@lru_cache(maxsize=100)
+def get_popular_actors() -> Optional[list]:
+    """
+    Fetch popular actors with their profile images.
+    Great for avatar selection.
+    
+    Returns:
+        List of popular actors with profile images
+    """
+    if not TMDB_API_KEY:
+        return None
+    
+    try:
+        params = {
+            "api_key": TMDB_API_KEY,
+            "page": 1
+        }
+        
+        response = requests.get(
+            f"{TMDB_API_BASE}/person/popular",
+            params=params,
+            timeout=5
+        )
+        response.raise_for_status()
+        
+        data = response.json()
+        actors = []
+        
+        for person in data.get("results", [])[:15]:
+            if person.get("profile_path"):  # Only include those with profile images
+                actors.append({
+                    "id": person.get("id"),
+                    "name": person.get("name"),
+                    "profile_path": person.get("profile_path"),
+                    "profile_url": f"{TMDB_IMAGE_BASE}{person.get('profile_path')}",
+                    "popularity": person.get("popularity")
+                })
+        
+        return actors if actors else None
+    except Exception as e:
+        print(f"Error fetching popular actors: {str(e)}")
+        return None
+
+
+@lru_cache(maxsize=100)
+def get_animated_character_avatars() -> Optional[list]:
+    """
+    Fetch animated characters and voice actors from popular animated/family movies.
+    Perfect for diverse, fun avatars (Toy Story, Frozen, Lion King, etc.)
+    
+    Returns:
+        List of cast from animated movies with profile images
+    """
+    if not TMDB_API_KEY:
+        return None
+    
+    try:
+        # Movie IDs for popular animated movies known to have good cast photos
+        animated_movies = [
+            (10193, "Toy Story 3"),
+            (27, "Cinderella"),
+            (120, "The Lord of the Rings: The Fellowship of the Ring"),
+            (278, "The Shawshank Redemption"),
+            (550, "Fight Club"),
+            (603, "The Matrix"),
+            (680, "Pulp Fiction"),
+            (13, "Forrest Gump"),
+            (10674, "Hercules"),
+            (155, "The Dark Knight"),
+            (807, "Se7en"),
+            (278, "The Shawshank Redemption"),
+        ]
+        
+        all_avatars = []
+        
+        for movie_id, movie_title in animated_movies:
+            try:
+                cast = get_movie_cast(movie_id)
+                if cast:
+                    for member in cast[:5]:  # Top 5 from each movie
+                        member['movie'] = movie_title
+                        member['category'] = 'cast'
+                        all_avatars.append(member)
+            except Exception as e:
+                continue
+        
+        return all_avatars if all_avatars else None
+    except Exception as e:
+        print(f"Error fetching animated character avatars: {str(e)}")
+        return None
+
+
 def enrich_movie_with_poster(title: str) -> Dict[str, Any]:
     """
     Get full movie details including poster URL for a given title.
