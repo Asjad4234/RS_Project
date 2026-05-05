@@ -19,14 +19,25 @@ TOP_N = 10                   # Number of recommendations to return
 r_cols = ['user_id', 'movie_id', 'rating', 'unix_timestamp']
 ratings = pd.read_csv('u.data', sep='\t', names=r_cols, encoding='latin-1')
 
-m_cols = ['movie_id', 'title', 'release_date', 'video_release_date', 'imdb_url']
-movies = pd.read_csv('u.item', sep='|', names=m_cols, usecols=range(5),
-                     encoding='latin-1')
+# ── Load movies with genre one-hot columns ────────────────
+genre_names = [
+    'unknown', 'Action', 'Adventure', 'Animation', "Children's", 'Comedy',
+    'Crime', 'Documentary', 'Drama', 'Fantasy', 'Film-Noir', 'Horror',
+    'Musical', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller', 'War', 'Western'
+]
+
+all_item_cols = ['movie_id', 'title', 'release_date', 'video_release_date', 'imdb_url'] + genre_names
+movies_full = pd.read_csv('u.item', sep='|', names=all_item_cols, encoding='latin-1')
+
+# Keep a lightweight copy for the existing pipeline
+movies = movies_full[['movie_id', 'title']].copy()
+
+# Genre lookup table: movie_id → genre columns (exported for app.py)
+movies_with_genres = movies_full[['movie_id', 'title'] + genre_names].copy()
 
 # ── Data Preprocessing ───────────────────────────────────
 # Drop columns that are not needed
 ratings.drop('unix_timestamp', axis=1, inplace=True)
-movies.drop(['release_date', 'video_release_date', 'imdb_url'], axis=1, inplace=True)
 
 # Merge movies and ratings
 merged_df = pd.merge(movies, ratings, on='movie_id')
@@ -160,7 +171,15 @@ def get_user_based_recommendations(user_id, movie_title, top_n=TOP_N):
     """
     # Validate that the user_id exists in our similarity matrix
     if user_id not in user_similarity_df.index:
-        return pd.DataFrame(columns=['rank', 'title', 'similarity_score'])
+        # COLD START FALLBACK: return the most popular movies ranked by rating count
+        top_popular = rating_counts.loc[popular_movies].sort_values(ascending=False).head(top_n)
+        result = pd.DataFrame({
+            'rank': range(1, len(top_popular) + 1),
+            'title': top_popular.index.tolist(),
+            'similarity_score': [0.0] * len(top_popular),
+            'cold_start': [True] * len(top_popular)
+        })
+        return result
 
     # Find the top-20 most similar users (neighbours)
     similar_users = (
@@ -248,6 +267,11 @@ def get_hybrid_recommendations(user_id, movie_title, top_n=TOP_N,
     pd.DataFrame
         DataFrame with columns: [rank, title, similarity_score]
     """
+    # COLD START: If user is unknown, force item-only mode
+    if user_id not in user_similarity_df.index:
+        item_weight = 1.0
+        user_weight = 0.0
+
     # Normalise weights so they always sum to 1.0
     total = item_weight + user_weight
     if total == 0:
